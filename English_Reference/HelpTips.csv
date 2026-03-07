@@ -11,7 +11,7 @@ CLIENT_TIP_INC_000008,Troupe means Party.
 CLIENT_TIP_INC_000009,"To use a skill, open the Skill window (Hotkey: K) and drag the skill icon to the hotkey bar (F1-F10). To use a combo skill, drag the skill icon to the Action Slot (bottom-right of the screen), select a target, and press C."
 CLIENT_TIP_INC_000010,Clean Hit must be placed first in the Action Slot to use Flurry.
 CLIENT_TIP_INC_000011,"To follow a character, click the target and select Follow from the menu. You can also press Z to follow the selected target."
-CLIENT_TIP_INC_000012,"You must be close to a character to open the interaction menu (Guild, Messenger, Follow, etc.). By default, left-click opens the menu. You can enable right-click instead in Options > Game > Right Click Player Menu."
+CLIENT_TIP_INC_000012,"You must be close to a character to open the interaction menu (Guild, Messenger, Follow, etc.). By default, left-click opens the menu. You can enable right-click instead in Options > Game > Right-Click Player Menu."
 CLIENT_TIP_INC_000013,Press X to toggle between walking and running.
 CLIENT_TIP_INC_000014,"Double-click a monster to attack it. This can be changed to single-click in Options > Game > Single Click to Attack. Basic attacks continue automatically while Auto Attack is enabled (Options > Game > Auto Attack)."
 CLIENT_TIP_INC_000015,Buying or selling Penya online violates our policies! Doing so puts your account at risk and may result in penalties.

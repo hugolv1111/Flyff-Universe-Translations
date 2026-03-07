@@ -983,7 +983,7 @@ TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!
 TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_ADD,You successfully created preset %s!
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_DELETED,You successfully deleted preset %s!
-TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,You don't have access to this preset anymore.. You need battlepass for it.
+TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,This preset is only available with the Extended Flyff Pass.
 TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT,You cannot add %s to the preset equipment. Requirements not met.
 TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT_KEEPTIME,You first need to equip that item once before adding it to the preset equipment.
 TEXTCLIENT_SWITCHEQUIP_USEWAIT,Please wait a little before using another switch.

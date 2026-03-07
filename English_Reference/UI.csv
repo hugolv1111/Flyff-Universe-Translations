@@ -469,7 +469,7 @@ UI_GUILDNOTICE_NEW_TIP,Clear notice text
 UI_GUILDNOTICE_SAVE_TIP,Save notice
 UI_GUILDLOGO_TITLE,Set Guild Logo
 UI_GUILDDISMISS_TITLE,Disband Guild Confirmation
-UI_GUILDDISMISS_CONFIRM,"Disband the guild? If your guild owns a house, you will also lose ownership of the guild house."
+UI_GUILDDISMISS_CONFIRM,"Disband the guild? If your guild owns a Guild Ship, it will be lost."
 UI_GUILD_PAY,Salary
 UI_GUILD_PAY_SETUP,Setup
 UI_GUILD_GRADE_MEMBER,Members
@@ -646,7 +646,7 @@ UI_PERSONAL_SHOP_JOIN,%s has entered the shop.
 UI_PERSONAL_SHOP_LEAVE,%s has left the shop.
 UI_PERSONAL_SHOP_SALE,%s has purchased %s (%d) for %lld Penya.
 UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item
-UI_CONFIRM_SELL_PREMIUM_MSG,"This is a premium item. Are you sure you want to sell it?\nOnce sold, it cannot be recovered."
+UI_CONFIRM_SELL_PREMIUM_MSG,"This is a premium item. Are you sure you want to sell it?"
 UI_TOOLTIP_ITEM_BINDS,[Soul-Linked]
 UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked]
 UI_BEAUTY_SHOP_TITLE,Hair Salon
@@ -718,7 +718,7 @@ UI_RESTATE_CONFIRM_INT_LOW,50 Intelligence (INT) points will be returned to you.
 UI_OPTION_BATTLEBGM,Battle Music
 UI_OPTION_VOICES,Japanese Voices
 UI_PK_CONFIRM_TITLE,P.K
-UI_PK_CONFIRM,Killing players increases your PK value. Proceed?
+UI_PK_CONFIRM,Killing players increases your PK value. Attack this player?
 UI_BANK_ENTERPASS_TITLE,Bank PIN
 UI_BANK_ENTERPASS_MSG,Enter Bank PIN (4 digits)
 UI_BANK_ENTERPASS_PIN,PIN
@@ -1012,15 +1012,15 @@ UI_PET_DEAD,(DEAD)
 UI_PET_REROLL_TIER,Scroll-rerolled tier:
 UI_TARGET_CLEAR,Clear target
 UI_OPTION_TAB_UI,Interface
-UI_OPTION_AUTO_ATTACK,Auto attack
-UI_OPTION_FIXED_CAMERA,Fixed camera
+UI_OPTION_AUTO_ATTACK,Auto Attack
+UI_OPTION_FIXED_CAMERA,Fixed Camera
 UI_OPTION_OTHER_DAMAGES,Display All Damage
-UI_OPTION_HIDE_OTHER_PLAYERS,Hide other players
+UI_OPTION_HIDE_OTHER_PLAYERS,Hide Other Players
 UI_OPTION_TRANSPARENT_CHAT,Transparent chat
-UI_OPTION_RIGHT_CLICK_MENU,Right-click player menu
-UI_OPTION_TOP_PLAYER_GAUGES,MP & FP gauges
+UI_OPTION_RIGHT_CLICK_MENU,Right-Click Player Menu
+UI_OPTION_TOP_PLAYER_GAUGES,MP & FP Gauges
 UI_OPTION_TOP_PLAYER_GAUGES_TIP,Enables FP & MP gauges above the player.
-UI_OPTION_SELECT_PETS,Select pets
+UI_OPTION_SELECT_PETS,Select Pets
 UI_FACE_SHOP_TITLE,Plastic Surgery
 UI_FACE_SHOP_BASE_FACE,Current Face
 UI_FACE_SHOP_NEW_FACE,New Face
@@ -1057,7 +1057,7 @@ UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d
 UI_NEWCHAR_FACE,Face
 UI_NEWCHAR_HAIR,Hair
 UI_NEWCHAR_HAIR_COLOR,Hair Color
-UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press Scroll Lock to cycle.
+UI_WORLD_ZOOM_LEVEL,%dX Zoom. Press Scroll Lock to cycle zoom levels.
 UI_KEYBIND_CHAR_CONTROL,Movement Keys
 UI_KEYBIND_MOVE_FORWARD,Move Forward
 UI_KEYBIND_MOVE_BACKWARD,Move Backward
@@ -1324,7 +1324,7 @@ UI_OPTION_BLOOMQUALITY_TIP,Adjusts bloom blur size and intensity.
 UI_OPTION_COLORBLIND,Colorblind Mode
 UI_OPTION_COLORBLIND_TIP,Changes the colorblind filter mode.
 UI_OPTION_CAMERAFOCUS,Camera Focus
-UI_OPTION_CAMERAFOCUSINFO,Toggle automatic camera zoom and focus when interacting with objects and NPCs.
+UI_OPTION_CAMERAFOCUSINFO,Toggles automatic camera zoom and focus when interacting with objects and NPCs.
 UI_MESSAGE_TIME,%s Ago
 UI_MESSAGE_CLEAR,Clear messages
 UI_INSTANTMSG_TITLE_TIP,Manage your Messages
@@ -1379,7 +1379,7 @@ UI_APP_BOT_TIP,Bot Simulation
 UI_TOOLTIP_DST_EXP,Monster EXP
 UI_TOOLTIP_DST_ITEM_DROPRATE,Item Drop Rate
 UI_TOOLTIP_DST_AUTO_RECOVERY_FP,Auto Attack FP Recovery
-UI_TOOLTIP_DST_AUTOHP,Recover %d%% HP when HP falls below %d%%
+UI_TOOLTIP_DST_AUTOHP,Recover %d%% HP When HP Falls Below %d%%
 UI_OPTION_MYNAME,Show My Name
 UI_OPTION_OTHERNAME,Show Other Players' Names
 UI_OPTION_NPCNAME,Show NPC Names
@@ -2127,7 +2127,7 @@ UI_RAINBOWRACE_TELEPORT_TITLE,Rainbow Race
 UI_RAINBOWRACE_TELEPORT_MSG,"The Rainbow Race will begin shortly. Teleport to the starting point? If you decline, you will be disqualified with no refund."
 UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023
 UI_HOME_LOGIN_EMAIL,Sign in with Email
-UI_HOME_LOGIN_EMAIL_TIP,Log in with Your Flyff Universe Email or Username
+UI_HOME_LOGIN_EMAIL_TIP,Log in with your Flyff Universe account email or username
 UI_SESSION_TITLE,Saved Sessions
 UI_SESSION_REMOVE,Remove
 UI_SESSION_REMOVEALL,Remove All
@@ -2633,8 +2633,8 @@ UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Com
 UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.
 UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.
 UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.
-UI_LIFE_MASTERY_ORDINALY_ORE,Rocks commonly found throughout the world. Yields Common ores.
-UI_LIFE_MASTERY_REGULAR_ORE,Rocks with a typical appearance. Yields Common-Uncommon ores.
+UI_LIFE_MASTERY_ORDINALY_ORE,Rocks commonly found throughout the world. Yield Common ores.
+UI_LIFE_MASTERY_REGULAR_ORE,Rocks with a typical appearance. Yield Common-Uncommon ores.
 UI_PRODUCTION_INGREDIENT,Ingredients
 UI_PRODUCTION_FOOD,Food
 UI_PRODUCTION_BUFF,Buffs
@@ -2698,16 +2698,16 @@ UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d"
 UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles
-UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time : \n%d day(s) %d:%d:%d
+UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d
 UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.
 UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.
 UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.
 UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.
 UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.
 UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.
-UI_LIFE_MASTERY_UNIQUE_ORE,Ore with a unique appearance. Yields Common-Rare ores.
-UI_LIFE_MASTERY_RARE_ORE,Rare ore that is difficult to find. Yields Common-Very Rare ores.
-UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary ore known to few. Yields Rare-Very Rare ores.
+UI_LIFE_MASTERY_UNIQUE_ORE,Rocks with a unique appearance. Yield Common-Rare ores.
+UI_LIFE_MASTERY_RARE_ORE,Rare rocks that is difficult to find. Yield Common-Very Rare ores.
+UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rocks known to few. Yield Rare-Very Rare ores.
 UI_LIFE_PRODUCTION_START,Production Start
 UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc"
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc"
@@ -2771,7 +2771,7 @@ UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.
 UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking
 UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking
 UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:
-UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank: 
+UI_LIFE_MASTERY_RANKING_CURRENTRANK,"Current rank: "
 UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.
 UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts
 UI_QUEST_PT_JAN2024_2,Spring Points: ????
@@ -2783,7 +2783,7 @@ UI_STANDBY,Standby
 UI_DEAD,Dead
 UI_NOW_SPECTATING,Spectating %s
 UI_EASTER_EGG_MISSION,Gather Easter Eggs
-UI_LIFE_MASTERY_CHROMA_ORE,Rocks commonly found throughout the world. Yields Common ores.
+UI_LIFE_MASTERY_CHROMA_ORE,Rocks commonly found throughout the world. Yield Common ores.
 UI_TARGET_HEALTH,Health: 
 UI_TARGET_PENYA,- Penya: 
 UI_ACHIEVEMENTS_LIFE_TAB,Life
