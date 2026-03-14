@@ -14,12 +14,12 @@ MMI_11,Request party duel,Yêu cầu đấu nhóm
 MMI_12,Follow,Theo sau
 MMI_13,Beauty Shop,Cửa hàng làm đẹp
 MMI_14,Repair,Sửa chữa
-MMI_15,Guild Warehouse,Kho lưu trữ Bang hội
-MMI_16,Guild ranking,Xếp hạng Bang hội
-MMI_17,Guild war ranking,Xếp hạng chiến tranh Bang hội
-MMI_18,Overall guild war ranking,Xếp hạng tổng thể chiến tranh bang hội
-MMI_21,Put Bounty,Đặt tiền thưởng
-MMI_22,See the Bounty List,Xem danh sách tiền thưởng
+MMI_15,Guild Bank,Kho lưu trữ Bang hội
+MMI_16,Guild Rankings,Xếp hạng Bang hội
+MMI_17,Guild Duel Rankings,Xếp hạng chiến tranh Bang hội
+MMI_18,Guild Statistics Rankings,Xếp hạng tổng thể chiến tranh bang hội
+MMI_21,Register Bounty,Đặt tiền thưởng
+MMI_22,Bounty List,Xem danh sách tiền thưởng
 MMI_24,View equipment,Xem trang bị
 MMI_25,Mailbox,Hộp thư
 MMI_26,Apply,Áp dụng
@@ -115,8 +115,8 @@ MMI_1050,W-Token Shop,Cửa hàng W-Token
 MMI_1051,Costume Box Upgrade,Nâng Cấp Costume Box
 MMI_1054,Exchange Rings,Trao Đổi Nhẫn
 MMI_1055,Dismantle Item,Tháo rời Vật Phẩm
-MMI_1056,Buy that Guild House,Mua Guild House đó
-MMI_1057,Enter in Guild House,Vào Nhà Guild
+MMI_1056,Purchase Guild Ship,Mua Guild House đó
+MMI_1057,Enter Guild Ship,Vào Nhà Guild
 MMI_1058,Enter Your House,Vào Nhà Của Bạn
 MMI_1059,Select House Template,Chọn mẫu nhà 
 MMI_1060,Visit Friend's House,Thăm nhà của bạn 

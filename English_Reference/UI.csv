@@ -646,7 +646,7 @@ UI_PERSONAL_SHOP_JOIN,%s has entered the shop.
 UI_PERSONAL_SHOP_LEAVE,%s has left the shop.
 UI_PERSONAL_SHOP_SALE,%s has purchased %s (%d) for %lld Penya.
 UI_CONFIRM_SELL_PREMIUM_TITLE,Confirm Selling Premium Item
-UI_CONFIRM_SELL_PREMIUM_MSG,"This is a premium item. Are you sure you want to sell it?"
+UI_CONFIRM_SELL_PREMIUM_MSG,This is a premium item. Are you sure you want to sell it?
 UI_TOOLTIP_ITEM_BINDS,[Soul-Linked]
 UI_TOOLTIP_ACCOUNT_BINDS,[Account-Linked]
 UI_BEAUTY_SHOP_TITLE,Hair Salon
@@ -1095,11 +1095,11 @@ UI_KEYBIND_TITLE,Keys
 UI_KEYBIND_RESET,Reset
 UI_UPGRADECARD_TITLE,Upgrade Suit Socket Cards
 UI_UPGRADECARD_REGISTER,Insert suit cards.
-UI_UPGRADECARD_INFO,"Fuse 10 suit cards for a chance to get 1 higher-grade card."
+UI_UPGRADECARD_INFO,Fuse 10 suit cards for a chance to get 1 higher-grade card.
 UI_RESHUFFLECARD_TITLE,Weapon Socket Card Reroll
 UI_RESHUFFLECARD_REGISTER,Insert weapon cards to use as materials.
 UI_RESHUFFLECARD_INFO,Fuse 3 weapon cards to receive 1 card of the same grade.
-UI_RESHUFFLECARD_CONFIRM,"Rerolling will consume the material cards. Proceed?"
+UI_RESHUFFLECARD_CONFIRM,Rerolling will consume the material cards. Proceed?
 UI_CONVERTSOULLINK_TITLE,Convert to Soul-Linked
 UI_CONVERTSOULLINK_INFO,"The item will become soul-linked and can no longer be sold to NPCs. You can use this process to stack identical items that otherwise cannot be stacked due to differing properties. Note: Soul-linked items cannot be traded, and this action cannot be undone."
 UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?
@@ -1413,7 +1413,7 @@ UI_EXPSTOP_RELOAD,Reload
 UI_EXPSTOP_BTN,Lock EXP
 UI_EXPSTOP_BTN_TIP,Stop gaining EXP from monsters you kill. You will still gain EXP from quests.
 UI_EXPSTOP_RELOAD_TITLE,Recharge EXP Lock
-UI_EXPSTOP_RELOAD_MSG,"Each charge prevents EXP gain from one monster kill. Cost per charge: #b%d Penya#nb. How many charges do you want to reload?"
+UI_EXPSTOP_RELOAD_MSG,Each charge prevents EXP gain from one monster kill. Cost per charge: #b%d Penya#nb. How many charges do you want to reload?
 UI_EXPSTOP_RELOAD_LABEL,Charges:
 UI_EXPSTOP_RELOAD_CONFIRM,Pay %s Penya to reload the EXP Lock gauge?
 UI_ARENA_RANKING_TITLE,Arena Ranking
@@ -1991,7 +1991,7 @@ UI_EXTRA_BAG_FMT,Bank Extra Bag Time Remaining: %s
 UI_RAINBOWRACE_ITEMS,Rainbow Items
 UI_RAINBOWRACE_ITEMS_INFO,Fly through items throughout the race to use them against others!
 UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points)
-UI_RAINBOWRACE_FARWARNING,"You've received a speed penalty for leaving the track - return now or you'll be disqualified!"
+UI_RAINBOWRACE_FARWARNING,You've received a speed penalty for leaving the track - return now or you'll be disqualified!
 UI_RAINBOWRACE_SPEEDMULTI,Current speed multiplier: %d
 UI_RAINBOWRACE_APP_TITLE,Rainbow Race Application
 UI_RAINBOWRACE_APP_CONFIRM,Registering costs %lld Penya. Continue?
@@ -2035,7 +2035,7 @@ UI_PLAYERHOUSINGBUY_INFO,Select a template for your house.\n\n#b#cffff0000Changi
 UI_PLAYERHOUSINGBUY_CONFIRM,Select Template
 UI_PLAYERHOUSINGBUY_MSGBOX_INFO,"Select this template?\n#bNote:#nb If you already own a house, this action will remove all currently placed decorations and NPCs."
 UI_PLAYERHOUSINGVISIT_TITLE,Visit a Friend's House
-UI_PLAYERHOUSINGVISIT_INFO,"Select a friend to visit. Only friends who are online and allow you to visit are listed here."
+UI_PLAYERHOUSINGVISIT_INFO,Select a friend to visit. Only friends who are online and allow you to visit are listed here.
 UI_MESSENGER_MENU_HOUSINGVISIT_ALLOW,Allow house visits
 UI_MESSENGER_MENU_HOUSINGVISIT_DENY,Deny house visits
 UI_GACHA_DESC_HOUSING,You will receive the following housing objects.
@@ -2168,7 +2168,7 @@ UI_UPGRADE_ITEMPACK,Upgrade
 UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade
 UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can receive all of the items listed below.\nIf you successfully upgrade the egg, you will receive higher-ranked items. If the upgrade fails, the egg may be downgraded or destroyed."
 UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack into the item slot.
-UI_ITEMPACK_UPGRADE_CONFIRM,"Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?"
+UI_ITEMPACK_UPGRADE_CONFIRM,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?
 UI_TAB_EGG_USE_NAME,Egg Use Achievements Event
 UI_EGG_USE_EVENT,Egg Use
 UI_EGG_USE_EVENT_DESC,"Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!"
@@ -2252,10 +2252,10 @@ UI_KALGAS_ASSAULT_REVIVAL_GOLD,Revive Now (Gold Coin x%d)
 UI_KALGAS_ASSAULT_REVIVAL_SILVER,Revive Now (Silver Coin)
 UI_KALGAS_ASSAULT_TIMER_KALGAS,Time until Kalgas appears
 UI_KALGAS_ASSAULT_TIMER_END,Time until Kalgas Assault ends
-UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,"You did not participate long enough to qualify for rewards or rankings."
+UI_KALGAS_ASSAULT_UNFULFILLED_PLAY_TIME,You did not participate long enough to qualify for rewards or rankings.
 UI_KALGAS_ASSAULT_WINNER,Congratulations. %s Team Wins!
 UI_KALGAS_ASSAULT_DRAW,The winner could not be decided.
-UI_KALGAS_ASSAULT_RETURN_COUNT,"You will be moved to town in %d seconds."
+UI_KALGAS_ASSAULT_RETURN_COUNT,You will be moved to town in %d seconds.
 UI_BLACK,Black
 UI_WHITE,White
 UI_DRAW,Draw
@@ -2452,7 +2452,7 @@ UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type: %s
 UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team: %s
 UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time: %s
 UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result: %s
-UI_MATOURNAMENT_CALENDAR_TODAY," (Today)"
+UI_MATOURNAMENT_CALENDAR_TODAY,(Today)
 UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE
@@ -2487,9 +2487,9 @@ UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation
 UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward
 UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Minimum participant level:
 UI_MSGBOX_RECIEVE,Receive
-UI_MATOURNAMENT_RANKING_CALENDAR_INFO,"Match results and participation history for the Madrigal Tournament for this week and the previous three weeks.\nClick a date to view match details for that day."
-UI_MATOURNAMENT_RANKING_TOP50_INFO,"Top 50 ranked teams in the Madrigal Tournament and their points. The top 16 teams advance to the finals."
-UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,"Finals bracket for the Madrigal Tournament. The top 16 teams are seeded by ranking. Teams without an opponent advance by forfeit."
+UI_MATOURNAMENT_RANKING_CALENDAR_INFO,Match results and participation history for the Madrigal Tournament for this week and the previous three weeks.\nClick a date to view match details for that day.
+UI_MATOURNAMENT_RANKING_TOP50_INFO,Top 50 ranked teams in the Madrigal Tournament and their points. The top 16 teams advance to the finals.
+UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,Finals bracket for the Madrigal Tournament. The top 16 teams are seeded by ranking. Teams without an opponent advance by forfeit.
 UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding
 UI_MATOURNAMENT_BETTING_DESC,"Place bids in the Madrigal Tournament and view the current top bids.\nYou can place a bid on only one team, and the bid amount can be increased at any time.\nBidding closes on %s %s. The expected payout is shown if the bid is successful."
 UI_MATOURNAMENT_BETTING_RANK,Rank
@@ -2504,7 +2504,7 @@ UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item?
 UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems
 UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.
 UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.
-UI_ULTIMATE_JEWEL_CONFIRM,"The material gems will be consumed.\nProceed?"
+UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb
 UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem
 UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Insert Ultimate Jewel Gemstone materials.
@@ -2681,7 +2681,7 @@ UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:
 UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:
 UI_LIFE_REPRODUCTION_TITLE,Product Upgrade
 UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.
-UI_LIFE_REPRODUCTION_INFO,"Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1"
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
 UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh
 UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?
 UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory
@@ -2771,7 +2771,7 @@ UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.
 UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking
 UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking
 UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:
-UI_LIFE_MASTERY_RANKING_CURRENTRANK,"Current rank: "
+UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank: 
 UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.
 UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts
 UI_QUEST_PT_JAN2024_2,Spring Points: ????
@@ -3249,9 +3249,9 @@ UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect
 UI_DUNGEONTIMERECAP_TITLE,Dungeon Result
 UI_DUNGEONTIMERECAP_TIME,Time:
 UI_DUNGEONTIMERECAP_CLOSE,Close
-UI_DUNGEONTIMERECAP_HELP_1,"You reach Gold Tier if you arrive at the boss room within %d minutes. The strongest boss appears in Gold Tier."
-UI_DUNGEONTIMERECAP_HELP_2,"You reach Silver Tier if you arrive at the boss room between %d and %d minutes. A stronger version of the normal boss appears in Silver Tier."
-UI_DUNGEONTIMERECAP_HELP_3,"You reach Bronze Tier if you arrive at the boss room after %d minutes. The normal boss appears in Bronze Tier."
+UI_DUNGEONTIMERECAP_HELP_1,You reach Gold Tier if you arrive at the boss room within %d minutes. The strongest boss appears in Gold Tier.
+UI_DUNGEONTIMERECAP_HELP_2,You reach Silver Tier if you arrive at the boss room between %d and %d minutes. A stronger version of the normal boss appears in Silver Tier.
+UI_DUNGEONTIMERECAP_HELP_3,You reach Bronze Tier if you arrive at the boss room after %d minutes. The normal boss appears in Bronze Tier.
 UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies
 UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies
 UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth

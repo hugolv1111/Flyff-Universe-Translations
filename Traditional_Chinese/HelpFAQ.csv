@@ -28,7 +28,7 @@ CLIENT_FAQ_INC_000025,Old Version: Double click the mouse wheel. New Version: Do
 CLIENT_FAQ_INC_000026,"While flying, the camera is hard to move.",飛行時視角的移動真不方便。
 CLIENT_FAQ_INC_000027,"While flying, double click on the right mouse button or use the arrow keys",飛行時雙擊滑鼠的右鍵，就可以不用一直點擊滑鼠，也能轉換方向
 CLIENT_FAQ_INC_000028,How can I use Emoticons?,如何休息？
-CLIENT_FAQ_INC_000029,Click 'F9' to take a rest and click 'F9' again to stand up. You can also press 'O' and choose the sit emotion and drag it to the bar.,"休息的熱鍵為『F9』鍵，按下後就會 ""坐下休息""，再按一次『F9』鍵就會站起來。萬一不小心將熱鍵消去時，只要按下熱鍵『O』，在動作欄裡尋找，重新登入熱鍵即可。"
+CLIENT_FAQ_INC_000029,Click 'F9' to take a rest and click 'F9' again to stand up. You can also press 'O' and choose the sit emote and drag it to the bar.,"休息的熱鍵為『F9』鍵，按下後就會 ""坐下休息""，再按一次『F9』鍵就會站起來。萬一不小心將熱鍵消去時，只要按下熱鍵『O』，在動作欄裡尋找，重新登入熱鍵即可。"
 CLIENT_FAQ_INC_000030,How do you trade with other characters?,角色之間要如何交易？
 CLIENT_FAQ_INC_000031,"Left click on a character while holding down Alt and choose the Trade menu. Using items as well as dropping items, along with NPC shops, are not available while trading.",請靠近要進行交易的角色，並按住鍵盤上的『ALT』鍵，然後使用滑鼠選定角色。此時會出現一列選項，選擇『交易』的選項即可進行交易。正在進行交易時，將無法使用物品、NPC交易與丟棄物品。
 CLIENT_FAQ_INC_000032,Where can I get a quest?,任務要去哪裡接？

@@ -14,12 +14,12 @@ MMI_11,Request party duel,申請劇團決鬥
 MMI_12,Follow,跟隨
 MMI_13,Beauty Shop,美容院
 MMI_14,Repair,修理
-MMI_15,Guild Warehouse,公會倉庫
-MMI_16,Guild ranking,公會排名
-MMI_17,Guild war ranking,公會戰排名
-MMI_18,Overall guild war ranking,公會戰總排名
-MMI_21,Put Bounty,提出獻賞金
-MMI_22,See the Bounty List,看通緝犯排名
+MMI_15,Guild Bank,公會倉庫
+MMI_16,Guild Rankings,公會排名
+MMI_17,Guild Duel Rankings,公會戰排名
+MMI_18,Guild Statistics Rankings,公會戰總排名
+MMI_21,Register Bounty,提出獻賞金
+MMI_22,Bounty List,看通緝犯排名
 MMI_24,View equipment,查看
 MMI_25,Mailbox,郵件
 MMI_26,Apply,套用
@@ -115,8 +115,8 @@ MMI_1050,W-Token Shop,W-代幣商店
 MMI_1051,Costume Box Upgrade,服裝箱升級
 MMI_1054,Exchange Rings,交換戒指
 MMI_1055,Dismantle Item,拆卸物品
-MMI_1056,Buy that Guild House,購買那個公會房
-MMI_1057,Enter in Guild House,進入公會房
+MMI_1056,Purchase Guild Ship,購買那個公會房
+MMI_1057,Enter Guild Ship,進入公會房
 MMI_1058,Enter Your House,進入你的房子
 MMI_1059,Select House Template,選擇房子版型
 MMI_1060,Visit Friend's House,拜訪朋友的房子

@@ -12,7 +12,7 @@ TEXTCLIENT_NAMEALREADYUSED,That character name is already in use.,Ce nom est dé
 TEXTCLIENT_BIGMONSTER,Boss Monster Detected!,Boss détecté !!!
 TEXTCLIENT_APP_MAP,World Map,Carte du Monde
 TEXTCLIENT_APP_OPTION,Options,Options
-TEXTCLIENT_APP_LOGOUT,Logout,Déconnexion
+TEXTCLIENT_APP_LOGOUT,Log Out,Déconnexion
 TEXTCLIENT_APP_QUIT,Quit,Quitter
 TEXTCLIENT_APP_SUPPORT,Support,Assistance
 TEXTCLIENT_APP_PRIVACY,Privacy,Confidentialité
@@ -42,7 +42,7 @@ TEXTCLIENT_DEVELOPER,Dev,Dev
 TEXTCLIENT_GAMEMASTER,Game Master,Maitre du Jeu
 TEXTCLIENT_MODERATOR,MOD,Mod
 TEXTCLIENT_VENDOR_NPC,[Vendor],[Marchand]
-TEXTCLIENT_APP_CHAT,Chatting,Discussion
+TEXTCLIENT_APP_CHAT,Chat Window,Discussion
 TEXTCLIENT_INVALIDLOGIN,Your login or password is invalid.,Votre identifiant ou mot de passe n'est pas valide.
 TEXTCLIENT_INVALIDAUTHTOKEN,Authentication failed. Please try again.,Échec de l'authentification. Veuillez réessayer.
 TEXTCLIENT_NOWPOSITION,"Position: x = %f, y = %f, z = %f, angle = %f","Position : x = %f, y = %f, z = %f, angle = %f"
@@ -58,7 +58,7 @@ TEXTCLIENT_FLIGHT_NOUSE,Unable to use while flying.,Vous êtes dans l'incapacit�
 TEXTCLIENT_ERROR_NOFLY,You cannot fly here.,Vous ne pouvez pas voler ici.
 TEXTCLIENT_ERROR_NOTALK,You are not allowed to talk.,Vous n'êtes pas autorisé à parler.
 TEXTCLIENT_ERROR_CHATSPAM,You received %d minutes penalty because of too much of chatting.,Vous avez reçu %d minutes de pénalité en raison d'un trop grand nombre de conversations.
-TEXTCLIENT_APP_MOTION,Motion,Émotions
+TEXTCLIENT_APP_MOTION,Emotes,Émotions
 TEXTCLIENT_APP_CHARINFO,Character,Personnage
 TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,Restauration des %s limitée à %d.
 TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,cet objet n'est pas encore disponible.
@@ -70,7 +70,7 @@ TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character windo
 TEXTCLIENT_LEVELUP_CAPTION,Congratulations! Level up!,Level up !!!
 TEXTCLIENT_CHARSTATUS_APPLY_Q,Do you want to use the current Stat setup?,Confirmer les nouvelles statistiques ?
 TEXTCLIENT_CHARSTATUS_FIRSTJOB,Your stat values will reset after your 1st job change.,(statistiques réinitialisées au niveau 15)
-TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Battle Pass or Hero Quest.,Cette fonctionnalité n'est disponible qu'avec le Passe de combat Étendu.
+TEXTCLIENT_BATTLEPASS_REQUIRED,This feature is only available with the Extended Flyff Pass or Hero Quest.,Cette fonctionnalité n'est disponible qu'avec le Passe de combat Étendu.
 TEXTCLIENT_STATPAGE_COOLDOWN,You can swap stat pages in %d seconds.,Vous pouvez changer de page de statistiques dans %d secondes.
 TEXTCLIENT_ADMIN_STATE,Status,Statut
 TEXTCLIENT_ADMIN_NORMAL,Normal,Normale
@@ -115,7 +115,7 @@ TEXTCLIENT_REQHP,Not enough HP.,Pas assez de PV.
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,Vous ne pouvez pas attaquer car un obstacle vous barre la route.
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,La compétence %s de niveau %d est nécessaire.
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,Augmentation du niveau de compétence %s.
-TEXTCLIENT_APP_PRIVATE_SHOP,Private shop,Boutique Perso
+TEXTCLIENT_APP_PRIVATE_SHOP,Private Shop,Boutique Perso
 TEXTCLIENT_APP_QUEST,Quests,Livre des quêtes
 TEXTCLIENT_APP_CASH_SHOP,Flyff Shop,Boutique Flyff
 TEXTCLIENT_PREMIUM_ITEMS,Premium Items,Boutique Flyff
@@ -614,8 +614,8 @@ TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 
 TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.,Seul le maître de guilde peut faire une offre de participation.
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,Fin des inscriptions pour la Guerre des Guildes !
 TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.,"Pour participer à la Guerre des Guildes, la guilde doit avoir atteint le niveau %d."
-TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,La particiation à la Guerre des Guildes vous coûtera au moins %d Penyas.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,Il vous en coûtera %d penya pour postuler au siège.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d Penya to apply to the siege.,La particiation à la Guerre des Guildes vous coûtera au moins %d Penyas.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d Penya to apply to the siege.,Il vous en coûtera %d penya pour postuler au siège.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,Vous pouvez participez à la Guerre des Guildes une fois la contribution payée.
 TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.,"Votre ancienne offre est de %d penya, et vous avez ajouté %d penya à votre offre."
 TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.,Vous vous êtes inscrit avec succès à la Guerre des Guildes ! La préparation des équipes se déroule le samedi à partir de 17h.
@@ -882,7 +882,7 @@ TEXTCLIENT_BATTLEPASS_GETPOINTS,You received %d %s points.,Vous avez reçu %d po
 TEXTCLIENT_BATTLEPASS_RESET,The %s season has been reset!,La saison de %s a été remise à zéro !
 TEXTCLIENT_BATTLEPASS_NEWRANK,You reached the %s grade %d!,Vous avez atteint le niveau de %s %d !
 TEXTCLIENT_BATTLEPASS_NEWBONUSRANK,You reached the %s bonus grade %d+%d!,Vous avez atteint le rang bonus %s %d+%d !
-TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Battle Pass.,La saison du Passe de combat est terminée.
+TEXTCLIENT_BATTLEPASS_ENDED,There is no more active Flyff Pass.,La saison du Passe de combat est terminée.
 TEXTCLIENT_BATTLEPASS_PAID,Thank you for purchasing the Extended %s!,Merci d'avoir acheté le %s étendu !
 TEXTCLIENT_BATTLEPASS_PURCHASE_PAID,Purchase the Extended %s to receive more rewards!,Achetez le %s étendu pour recevoir plus de récompenses !
 TEXTCLIENT_GUILDCOMBAT80_MAXLEVEL,Only characters level 80 or less can apply to this Lv80 Guild Siege.,Seuls les personnages de niveau 80 ou moins peuvent s'inscrire à la Guerre de Guildes niv. 80.
@@ -976,14 +976,14 @@ TEXTCLIENT_ACHIEVEMENT_LEVEL,"You reached %d of ""%s""","Vous avez atteint %d de
 TEXTCLIENT_MESSAGE_TOO_LONG,Your message exceeds the maximum length.,Votre message dépasse la taille maximum autorisée.
 TEXTCLIENT_FREEZE_NOTUSE,You cannot teleport if you're frozen.,Vous ne pouvez pas vous téléporter si vous êtes gelé.
 TEXTCLIENT_MINLVLTRADE,You must reach level %d to trade premium items.,Vous devez atteindre le niveau %d pour échanger des objets premiums.
-TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this motion.,Vous devez atteindre le niveau %d pour utiliser ce mouvement.
+TEXTCLIENT_MINLVLMOTION,You must reach level %d to use this emote.,Vous devez atteindre le niveau %d pour utiliser ce mouvement.
 TEXTCLIENT_APP_SWITCHEQUIP,Switch Equip,Équip. rapide
 TEXTCLIENT_SWITCHEQUIP_NOTUSEITEM,You can only equip items from the SwitchEquip menu/shortcut.,Vous ne pouvez qu'équiper des objets du menu/raccourci de changement d'équipement.
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_UPDATED,You Successfully updated preset %s!,Vous avez mis à jour l'ensemble d'équipement %s avec succès !
 TEXTCLIENT_SWITCHEQUIP_ERROR_COUNT,You have too many presets!,Vous avez trop d'ensembles d'équipement !
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_ADD,You successfully created preset %s!,Ensemble d'équipement %s créé avec succès !
 TEXTCLIENT_SWITCHEQUIP_SUCCESS_DELETED,You successfully deleted preset %s!,Ensemble d'équipement %s supprimé avec succès !
-TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,You don't have access to this preset anymore.. You need battlepass for it.,Vous n'avez plus accès à cet ensemble d'équipement. Vous devez avoir le battle pass pour ça.
+TEXTCLIENT_SWITCHEQUIP_USEBATTLEPASS,This preset is only available with the Extended Flyff Pass.,Vous n'avez plus accès à cet ensemble d'équipement. Vous devez avoir le battle pass pour ça.
 TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT,You cannot add %s to the preset equipment. Requirements not met.,Vous ne pouvez ajouter %s à l'ensemble d'équipement. Conditions non remplies.
 TEXTCLIENT_SWITCHEQUIP_ERROR_REQUIREMENT_KEEPTIME,You first need to equip that item once before adding it to the preset equipment.,Vous devez équiper l'objet une première fois avant de l'ajouter à un ensemble.
 TEXTCLIENT_SWITCHEQUIP_USEWAIT,Please wait a little before using another switch.,Veuillez patienter un peu avant de changer d'ensemble.
@@ -994,7 +994,7 @@ TEXTCLIENT_PVPCONTEST_COMPOSITIONNOTCLOSED,You can't change your participating p
 TEXTCLIENT_PVPCONTEST_NOTREGISTERED,Your guild is not registered for the FWC PVP Contest.,Votre guilde n'est pas inscrite au concours JcJ FWC.
 TEXTCLIENT_PVPCONTEST_COMPOSITIONSUCCESS,You successfully set your player composition!,Votre liste de joueurs est enregistrée avec succés !
 TEXTCLIENT_PVPCONTEST_REGISTRATIONSUCCESS,You successfully registered your guild for the FWC PVP Contest!,Votre participation au concours JcJ FWC a été enregistrée avec succés.
-TEXTCLIENT_PVPCONTEST_NOGOLDS,You need at least %s penyas to register to the FWC PVP Contest!,Vous avez besoin d'un minimum de %s penyas pour vous inscrire au concours JcJ FWC.
+TEXTCLIENT_PVPCONTEST_NOGOLDS,You need at least %s Penya to register to the FWC PVP Contest!,Vous avez besoin d'un minimum de %s penyas pour vous inscrire au concours JcJ FWC.
 TEXTCLIENT_PVPCONTEST_STATE_REGISTRATIONS,Registrations for FWC PVP Contest are now open! ,Les inscriptions au concours JcJ FWC sont maintenant ouvertes !
 TEXTCLIENT_PVPCONTEST_STATE_PRELIMINARY,Preliminaries will start from now on!,Les tours préliminaires commencent dès maintenant !
 TEXTCLIENT_PVPCONTEST_STATE_BACKUP,Backup Match will start from now on!,Les matchs de remplacement commencent dès maintenant !
@@ -1105,8 +1105,8 @@ TEXTCLIENT_HOUSEOBJECTS_AREA,You cannot place a furniture here.,Vous ne pouvez p
 TEXTCLIENT_HOUSEOBJECTS_CLICK,Touch on the ground where you want the object to be placed. Rotate it with mouse wheel. Press mouse wheel and move mouse left/right to resize it.,Touchez le sol à l'endroit où vous souhaitez placer l'objet. Faites-le pivoter à l'aide de la molette de la souris. Appuyez sur la molette de la souris et déplacez la souris vers la gauche/droite pour le redimensionner.
 TEXTCLIENT_HOUSEOBJECTS_CANCEL,Decoration object placement was cancelled.,Le placement de l'objet de décoration a été annulé.
 TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture in that house.,Vous n'avez pas le droit de placer un meuble dans cette maison.
-TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild house to place that furniture.,Vous devez être dans votre maison ou dans la maison de la guilde pour placer ce meuble.
-TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild house.,"Vous n'avez ni maison, ni maison de guilde."
+TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild ship to place that furniture.,Vous devez être dans votre maison ou dans la maison de la guilde pour placer ce meuble.
+TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild ship.,"Vous n'avez ni maison, ni maison de guilde."
 TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!,Vous avez ajouté avec succès %s comme visiteur !
 TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is offline.,Le joueur que vous avez sélectionné n'est pas en ligne.
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.,Vous avez réussi à supprimer ce joueur de votre liste de visiteurs.
@@ -1128,33 +1128,33 @@ TEXTCLIENT_HOUSINGTEMPLATE_EXPIRED,The house template %s has expired! Purchase t
 TEXTCLIENT_HOUSINGTEMPLATE_ALREADYOWNED,You already own this house template.,Vous possédez déjà ce modèle de maison.
 TEXTCLIENT_HOUSINGTEMPLATE_UNLOCKSUCCESS,"You successfully unlocked house template ""%s""!","Vous avez débloqué avec succès le modèle de maison ""%s"" !"
 TEXTCLIENT_PLAYERHOUSING_BUYTEMPLATENOTOWNED,You need to unlock that housing template first.,Vous devez d'abord débloquer ce modèle de logement.
-TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild house does not belong to anyone. Place a bid if you want it!,Cette maison de guilde n'appartient à personne. Faites une offre si vous la voulez !
-TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild house does not belong to your guild. You can't enter.,Cette maison de guilde n'appartient pas à votre guilde. Vous ne pouvez pas y entrer.
-TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild house already belong to a guild. You can't place a bid on it.,Cette maison de guilde appartient déjà à une guilde. Vous ne pouvez pas faire d'offre.
+TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild ship does not belong to anyone. Place a bid if you want it!,Cette maison de guilde n'appartient à personne. Faites une offre si vous la voulez !
+TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild ship does not belong to your guild. You can't enter.,Cette maison de guilde n'appartient pas à votre guilde. Vous ne pouvez pas y entrer.
+TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild ship already belongs to a guild. You can't place a bid on it.,Cette maison de guilde appartient déjà à une guilde. Vous ne pouvez pas faire d'offre.
 TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!,Votre guilde a remporté l'enchère pour le navire de guilde ! Vous pouvez maintenant vous y téléporter en utilisant la carte et en faisant un clic droit sur votre vaisseau. Félicitations !
 TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.,Vous n'avez pas le droit de faire une offre.
-TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild house is now %s!,Votre nouvelle offre pour cette maison de guilde est maintenant de %s !
-TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough penya in your guild bank.,Vous n'avez pas assez de Penya dans votre coffre de guilde.
+TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild ship is now %s!,Votre nouvelle offre pour cette maison de guilde est maintenant de %s !
+TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough Penya in your guild bank.,Vous n'avez pas assez de Penya dans votre coffre de guilde.
 TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.,Vous avez déjà placé une enchère sur un autre navire de la guilde.
-TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s penya.,Vous devez fixer une enchère initiale minimale de %s Penyas.
+TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s Penya.,Vous devez fixer une enchère initiale minimale de %s Penyas.
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_WAIT,Please wait a moment...,Veuillez patienter...
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_SUCCESS,You successfully set your artifact spawn position! A fee of %s has been taken off your guild bank!,Vous avez réussi à définir la position de l'artefact ! Une taxe de %s a été prélevée de votre coffre de guilde !
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NORIGHTS,You don't have the authority to set the artifact spawn position.,Vous n'avez pas le pouvoir de définir la position de l'artefact.
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough penya in your guild bank to set the artifact spawn position.,Vous n'avez pas assez de Penyas dans votre coffre de guilde pour définir la position de l'artefact.
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough Penya in your guild bank to set the artifact spawn position.,Vous n'avez pas assez de Penyas dans votre coffre de guilde pour définir la position de l'artefact.
 TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.","Votre guilde peut maintenant placer l'artefact de navire ! Consultez l'onglet ""Logement"" de la fenêtre de guilde pour plus d'informations."
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,Ce n'est pas encore le moment de définir la position de l'artefact.
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,Votre guilde a perdu la propriété du navire de guilde car aucun artefact n'a été placé cette semaine.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,Les artefacts de guilde sont apparus ! Chassez-les pour obtenir la propriété du navire sur le canal PK !
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,Votre équipe a détruit un artefact de navire de guilde ! Ce navire de guilde appartient désormais à votre guilde !
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,Votre équipe a détruit un artefact de navire de guilde !
-TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s penya has been deposited into your guild bank. Congratulations!,%s Penyas ont été déposés dans votre coffre de guilde. Félicitations à tous !
+TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s Penya has been deposited into your guild bank. Congratulations!,%s Penyas ont été déposés dans votre coffre de guilde. Félicitations à tous !
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_OWNER,Your guild artifact has been destroyed! You lost ownership of the ship.,L'artefact de votre guilde a été détruit ! Vous avez perdu la propriété du navire.
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_1,Your guild successfully defended the ship artifact!,Votre guilde a réussi à défendre son artefact de navire !
-TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s penya has been deposited into the guild bank. Congratulations!,Vous conservez votre navire et %s Penyas ont été déposés dans votre coffre de guilde. Toutes nos félicitations !
+TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s Penya has been deposited into the guild bank. Congratulations!,Vous conservez votre navire et %s Penyas ont été déposés dans votre coffre de guilde. Toutes nos félicitations !
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.,La guilde %s a réussi à protéger l’artefact ! Vous aurez plus de chance la prochaine fois.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.,Vous devez faire partie d'une guilde pour attaquer un artefact.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!,Vous ne pouvez pas attaquer votre propre artefact !
-TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on the channel 1 to teleport to the guild house ship!,Vous devez être sur le canal 1 pour vous téléporter au navire de guilde !
+TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on channel 1 to teleport to the guild ship!,Vous devez être sur le canal 1 pour vous téléporter au navire de guilde !
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_EDIT_SUCCESS,You successfully updated your artifact spawn position.,Vous avez réussi à mettre à jour la position de l'artefact.
 TEXTCLIENT_HOUSINGPRESETS_DELETE_NOSELECT,You need to select a preset to delete.,Vous devez sélectionner une préréglage à supprimer.
 TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.,Vous avez trop de préréglages pour cette carte.
@@ -1182,20 +1182,20 @@ TEXTCLIENT_EVENTBUFF,%s is active!,%s est actif !
 TEXTCLIENT_STORAGEFULL,The bag is full.,Le sac est plein.
 TEXTCLIENT_STORAGE_ARMOR,%s Armor Pack (%d/%d),Pack d’armure %s (%d/%d)
 TEXTCLIENT_STORAGE_ONE,You can only use one bag at a time.,Vous ne pouvez utiliser qu'un seul sac à la fois.
-TEXTCLIENT_MOTIONNOPVP,You cannot play this motion in a PvP area.,Vous ne pouvez pas effectuer cette action dans une zone JcJ.
+TEXTCLIENT_MOTIONNOPVP,You cannot use this emote in a PvP area.,Vous ne pouvez pas effectuer cette action dans une zone JcJ.
 TEXTCLIENT_ITEMPACK_UPGRADE_SUCCESS,Upgrade was successful.,L'amélioration a réussi.
 TEXTCLIENT_HOUSING_NOTENOUGH_PROP,You need more of that prop in order to place it.,Il vous faut davantage de cet accessoire pour pouvoir le placer.
 TEXTCLIENT_HOUSING_NOTENOUGH_NPC,You need more of that npc in order to place it.,Il vous faut davantage de ce PNJ pour pouvoir le placer.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this artifact battle.,Vous ne vous êtes pas inscrit à la Guerre des Artefacts.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the artifact battle!,Vous avez besoin de faire partie d'une guilde afin de participer à la Guerre des Artefacts.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOPERMISSION,You need the guild housing permission to register to the artifact battle.,Vous avez besoin des permissions de gestion de la maison de guilde afin de vous inscrire à la Guerre des Artefacts.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d penyas to register to the artifact battle.,Vous avez besoin d'au moins %d Penyas afin de s'inscrire à la Guerre des Artefacts.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_ALREADYREGISTERED,Your guild is already registered to the artifact battle!,Votre guilde est déjà inscrite à la Guerre des Artefacts !
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You succesfully registered for the next artifact battle. A %d penyas fee has been taken off your guild bank.,Vous vous êtes inscrits à la prochaine Guerre des Artefacts. Une taxe de %d Penyas a été prélevée de votre coffre de guilde.
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You succesfully cancelled your application for the next artifact battle. The %d penyas fee has been deposited back into your guild bank.,Vous vous êtes désinscrits de la prochaine Guerre des Artefacts. La taxe de %d Penyas vous a été remboursée dans le votre coffre de guilde.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOTAPPLY,You did not apply for this Artifact Battle.,Vous ne vous êtes pas inscrit à la Guerre des Artefacts.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGUILD,You need a guild to join the Artifact Battle!,Vous avez besoin de faire partie d'une guilde afin de participer à la Guerre des Artefacts.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOPERMISSION,You need the guild housing privilege to register to the Artifact Battle.,Vous avez besoin des permissions de gestion de la maison de guilde afin de vous inscrire à la Guerre des Artefacts.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOGOLD,You need at least %d Penya to register to the Artifact Battle.,Vous avez besoin d'au moins %d Penyas afin de s'inscrire à la Guerre des Artefacts.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_ALREADYREGISTERED,Your guild is already registered to the Artifact Battle!,Votre guilde est déjà inscrite à la Guerre des Artefacts !
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You have successfully registered for the next Artifact Battle. A %d Penya fee has been taken off your guild bank.,Vous vous êtes inscrits à la prochaine Guerre des Artefacts. Une taxe de %d Penyas a été prélevée de votre coffre de guilde.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You successfully cancelled your application for the next Artifact Battle. The %d Penya fee has been deposited back into your guild bank.,Vous vous êtes désinscrits de la prochaine Guerre des Artefacts. La taxe de %d Penyas vous a été remboursée dans le votre coffre de guilde.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!","La Guerre des Artefacts a déjà commencée, vous ne pouvez plus vous désinscrire !"
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no artifact battle this week. Please try again next week!,Il n'y a pas de Guerre des Artefacts cette semaine. Recommencez la semaine prochaine !
-TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild house NPC here.,Vous ne pouvez placer ici que des PNJ de Maison de Guilde.
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no Artifact Battle this week. Please try again next week!,Il n'y a pas de Guerre des Artefacts cette semaine. Recommencez la semaine prochaine !
+TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild ship NPC here.,Vous ne pouvez placer ici que des PNJ de Maison de Guilde.
 TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.,Cet objet ne peut pas être utilisé.
 TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.,Enregistrement réussi.
 TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.,Vous ne pouvez placer ici que des PNJ Personnels.
@@ -1204,8 +1204,8 @@ TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the 
 TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.,Le %s ne peut être obtenu que lorsque la quête %s est en cours.
 TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC.","Vous pouvez déplacer les objets / PNJ via le menu d’édition. Pour quitter ce mode, appuyez sur ÉCHAP."
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!,La guilde %s a détruit l’artefact de la guilde %s !
-TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild house has dismantled the guild!,Le propriétaire de cette maison de guilde a dissous la guilde !
-TEXTCLIENT_GUILDHOUSING_DISMISSED_2,"The guild house's artifact is now in ruins, and the ownership of the house is now vacant.","L’artefact de la maison de guilde est en ruines, et la propriété de la maison est désormais vacante."
+TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!,Le propriétaire de cette maison de guilde a dissous la guilde !
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,The guild ship's artifact has been destroyed. The ship is now unclaimed.,"L’artefact de la maison de guilde est en ruines, et la propriété de la maison est désormais vacante."
 TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.,Échec de l’inscription.
 TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.,Inscription impossible : niveau insuffisant.
 TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.,Inscription réussie.
@@ -1321,7 +1321,7 @@ TEXTCLIENT_MATOURNAMENT_INVALID_MEMBER_COUNT,Invalid number of party members.,No
 TEXTCLIENT_MATOURNAMENT_ALREADY_REGISTERED,A party member is already registered.,Un membre du groupe est déjà inscrit.
 TEXTCLIENT_MATOURNAMENT_MEMBER_OFFLINE,Not all party members are online.,Tous les membres du groupe ne sont pas en ligne.
 TEXTCLIENT_MATOURNAMENT_MEMBER_MINLEVEL,A party member does not meet the minimum level requirement.,Un membre du groupe ne remplit pas le niveau minimum requis.
-TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough penya.,Pas assez de penyas.
+TEXTCLIENT_MATOURNAMENT_NOGOLDS,Not enough Penya.,Pas assez de penyas.
 TEXTCLIENT_MATOURNAMENT_REGISTRATIONSUCCESS,Registration successful.,Inscription réussie.
 TEXTCLIENT_MATOURNAMENT_WINNER,The Madrigal Tournament has ended! The winner is: %s! Congratulations!,Le Tournoi de Madrigal est terminé ! Le vainqueur est : %s ! Félicitations !
 TEXTCLIENT_MATOURNAMENT_NO_WINNER,The Madrigal Tournament has ended on a draw! Congratulations!,Le Tournoi de Madrigal s’est terminé sur une égalité ! Félicitations !
@@ -1337,10 +1337,10 @@ TEXTCLIENT_MATOURNAMENT_KILLNOTIFICATION_KILLINGSPREE,[%s] %s is in a killing sp
 TEXTCLIENT_MATOURNAMENT_CANTTELEPORT,You can't teleport in the match anymore. Match has started.,Vous ne pouvez plus vous téléporter. Le match a commencé.
 TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE,You have received the betting dividends.,Vous avez reçu les gains des paris.
 TEXTCLIENT_MATOURNAMENT_BETTING_RECEIVE_FAIL,Failed to send the dividends. Check your state.,Impossible d’envoyer les gains. Vérifiez votre état.
-TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s penya to %s.,Vous avez parié %s penyas sur %s.
+TEXTCLIENT_MATOURNAMENT_BETTING_BET,You bet %s Penya to %s.,Vous avez parié %s penyas sur %s.
 TEXTCLIENT_MATOURNAMENT_BETTING_BET_OTHER,You already bet other team.,Vous avez déjà parié sur une autre équipe.
 TEXTCLIENT_MATOURNAMENT_BETTING_NO_TIME,You can't bid at this time.,Vous ne pouvez pas parier pour le moment.
-TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no penya to collect.,Vous n’avez aucun penya à récupérer.
+TEXTCLIENT_MATOURNAMENT_BETTING_NO_GOLD,You have no Penya to collect.,Vous n’avez aucun penya à récupérer.
 TEXTCLIENT_MATOURNAMENT_REWARD_NORECORD,You have no participation or rewards to receive.,Vous n’avez aucune participation ni récompense à recevoir.
 TEXTCLIENT_MATOURNAMENT_REWARD,You have received a reward.,Vous avez reçu une récompense.
 TEXTCLIENT_MATOURNAMENT_REWARD_MAIL,You can't receive the reward. Check your mail.,Impossible de recevoir la récompense. Vérifiez votre courrier.
@@ -1404,12 +1404,12 @@ TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!,Le d
 TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory slots!,Vous avez déjà débloqué le nombre maximum d’emplacements d’inventaire pour familiers !
 TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!,Vous avez débloqué avec succès un nouvel emplacement d’inventaire pour familiers dans votre maison !
 TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!,Vous devez faire partie d’une guilde pour utiliser ce parchemin !
-TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses.","Vous avez débloqué avec succès un nouvel emplacement d’inventaire pour familiers dans la maison de guilde. Si vous ne possédez pas encore de maison, il sera appliqué à vos futures maisons."
-TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this motion.,Vous devez être en couple de niveau %d pour utiliser cette animation.
-TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this motion.,Vous devez sélectionner votre partenaire pour demander cette animation.
-TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the motion.,Votre partenaire a refusé d’effectuer cette animation.
-TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this motion.,Vous êtes trop éloignés l’un de l’autre pour effectuer cette animation.
-TEXTCLIENT_APP_LIFE,Life,Métier
+TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild ship. If you do not have a house yet, it will be applied to your future houses.","Vous avez débloqué avec succès un nouvel emplacement d’inventaire pour familiers dans la maison de guilde. Si vous ne possédez pas encore de maison, il sera appliqué à vos futures maisons."
+TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this emote.,Vous devez être en couple de niveau %d pour utiliser cette animation.
+TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this emote.,Vous devez sélectionner votre partenaire pour demander cette animation.
+TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the emote.,Votre partenaire a refusé d’effectuer cette animation.
+TEXTCLIENT_COUPLE_MOTION_RANGE,You are too far away from each other to perform this emote.,Vous êtes trop éloignés l’un de l’autre pour effectuer cette animation.
+TEXTCLIENT_APP_LIFE,Life Skills,Métier
 TEXTCLIENT_GATHERING_EQUIP,You need to equip a(n) %s.,Vous devez équiper un(e) %s.
 TEXTCLIENT_GATHERING_EQUIP_CHECK,Please check the correct tool.,Veuillez vérifier que vous utilisez l’outil approprié.
 TEXTCLIENT_GATHERING_FAIL,Gathering failed.,Échec de la récolte.
@@ -1461,12 +1461,12 @@ TEXTCLIENT_RAINBOWRACE_TELEPORT_ERROR_3,You cannot enter on the current channel.
 TEXTCLIENT_MAIL_ITEM_PRODUCT_OVER,Product %s cannot be stored in the inventory or the bank if it exceeds %d items.,Le produit %s ne peut pas être stocké dans l’inventaire ou la banque s’il dépasse %d unités.
 TEXTCLIENT_HARVEST_NOTREADY,You can't harvest this now.,Vous ne pouvez pas récolter ceci pour le moment.
 TEXTCLIENT_HARVEST_NORIGHTS,You can't harvest this here.,Vous ne pouvez pas récolter ici.
-TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this motion.,Vous devez terminer la quête %s pour utiliser cette animation.
+TEXTCLIENT_MOTION_REQQUEST,You must complete the quest %s to use this emote.,Vous devez terminer la quête %s pour utiliser cette animation.
 TEXTCLIENT_USEITEM_PVP,You cannot use this item in a PvP setting.,Vous ne pouvez pas utiliser cet objet en PvP.
-TEXTCLIENT_MOTION_ACTIVE,You can now use the motion %s!,Vous pouvez maintenant utiliser l’animation %s !
-TEXTCLIENT_MOTION_EXPIRE,The motion %s has expired.,L’animation %s a expiré.
+TEXTCLIENT_MOTION_ACTIVE,You can now use the emote %s!,Vous pouvez maintenant utiliser l’animation %s !
+TEXTCLIENT_MOTION_EXPIRE,The emote %s has expired.,L’animation %s a expiré.
 TEXTCLIENT_BLESSING_NOREMOVEFREE,You can't remove a Blessing of the Demon!,Vous ne pouvez pas retirer une Bénédiction du Démon !
-TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Battle Pass.,Cette fonctionnalité est disponible uniquement avec le Passe de combat Étendu.
+TEXTCLIENT_BATTLEPASS_REQUIRED2,This feature is only available with the Extended Flyff Pass.,Cette fonctionnalité est disponible uniquement avec le Passe de combat Étendu.
 TEXTCLIENT_SEARCHSHOP_TPLIMIT,You already used all your daily teleports.,Vous avez déjà utilisé tous vos téléportations quotidiennes.
 TEXTCLIENT_SEARCHSHOP_CHANNEL,You cannot teleport to this shop because it is on a different channel.,Vous ne pouvez pas vous téléporter vers cette boutique car elle se trouve sur un autre canal.
 TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,Récoltes %d/%d
@@ -1531,7 +1531,7 @@ TEXTCLIENT_MAX_TRAPS,You cannot place another one of these traps yet.,Vous ne po
 TEXTCLIENT_TRAP_RANGE,You cannot place a trap here.,Vous ne pouvez pas placer de piège ici.
 TEXTCLIENT_TRAP_TOOL,You do not have enough Trap Tool.,Vous n’avez pas assez d’outils de piège.
 TEXTCLIENT_ENCHANT_SAME_JEWEL_FAILED,Equipping the same jewel failed.,L’équipement du même joyau a échoué.
-TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or penya for synthesis.,Vous n’avez pas assez de joyaux ou de Penyas pour la synthèse.
+TEXTCLIENT_JEWELSYNTHESIS_NO,You do not have enough jewel or Penya for synthesis.,Vous n’avez pas assez de joyaux ou de Penyas pour la synthèse.
 TEXTCLIENT_JEWELSYNTHESIS_SUCCESS,Jewel synthesis succeeded!,La synthèse du joyau a réussi !
 TEXTCLIENT_HEROQUEST_REQUIRED,This feature is only available with the Hero Quest.,Cette fonctionnalité est disponible uniquement avec la quête Héros.
 TEXTCLIENT_SKILLPAGE_COOLDOWN,You can swap skill pages in %d seconds.,Vous pourrez changer de page de compétences dans %d secondes.

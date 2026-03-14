@@ -14,12 +14,12 @@ MMI_11,Request party duel,パーティーデュエルを申請
 MMI_12,Follow,追尾
 MMI_13,Beauty Shop,ビューティーショップ
 MMI_14,Repair,修理
-MMI_15,Guild Warehouse,ギルド倉庫
-MMI_16,Guild ranking,ギルドランキング
-MMI_17,Guild war ranking,ギルド戦ランキング
-MMI_18,Overall guild war ranking,ギルド戦 総合ランキング
-MMI_21,Put Bounty,懸賞金懸け
-MMI_22,See the Bounty List,指名手配リスト
+MMI_15,Guild Bank,ギルド倉庫
+MMI_16,Guild Rankings,ギルドランキング
+MMI_17,Guild Duel Rankings,ギルド戦ランキング
+MMI_18,Guild Statistics Rankings,ギルド戦 総合ランキング
+MMI_21,Register Bounty,懸賞金懸け
+MMI_22,Bounty List,指名手配リスト
 MMI_24,View equipment,装備を見る
 MMI_25,Mailbox,ファン･ポスト
 MMI_26,Apply,適用
@@ -115,8 +115,8 @@ MMI_1050,W-Token Shop,Wトークンショップ
 MMI_1051,Costume Box Upgrade,コスチュームボックスのアップグレード
 MMI_1054,Exchange Rings,交換指輪
 MMI_1055,Dismantle Item,アイテムの解体
-MMI_1056,Buy that Guild House,このギルドハウスを購入したい
-MMI_1057,Enter in Guild House,ギルドハウスに入る
+MMI_1056,Purchase Guild Ship,このギルドハウスを購入したい
+MMI_1057,Enter Guild Ship,ギルドハウスに入る
 MMI_1058,Enter Your House,あなたの家に入る
 MMI_1059,Select House Template,ハウステンプレートを選択
 MMI_1060,Visit Friend's House,友達の家を訪ねる

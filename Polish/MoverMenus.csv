@@ -14,12 +14,12 @@ MMI_11,Request party duel,Poproś o pojedynek drużyn
 MMI_12,Follow,Śledź
 MMI_13,Beauty Shop,Instytut urody
 MMI_14,Repair,Napraw
-MMI_15,Guild Warehouse,Magazyn Gildii
-MMI_16,Guild ranking,Ranking gildii
-MMI_17,Guild war ranking,Ranking wojny gildii
-MMI_18,Overall guild war ranking,Ogólny ranking wojny gildii
-MMI_21,Put Bounty,Wyznacz nagrodę
-MMI_22,See the Bounty List,Zobacz listę nagród
+MMI_15,Guild Bank,Magazyn Gildii
+MMI_16,Guild Rankings,Ranking gildii
+MMI_17,Guild Duel Rankings,Ranking wojny gildii
+MMI_18,Guild Statistics Rankings,Ogólny ranking wojny gildii
+MMI_21,Register Bounty,Wyznacz nagrodę
+MMI_22,Bounty List,Zobacz listę nagród
 MMI_24,View equipment,Zobacz ekwipunek
 MMI_25,Mailbox,Skrzynka pocztowa
 MMI_26,Apply,Zastosuj
@@ -115,8 +115,8 @@ MMI_1050,W-Token Shop,W-Token Shop
 MMI_1051,Costume Box Upgrade,Costume Box Upgrade
 MMI_1054,Exchange Rings,Exchange Rings
 MMI_1055,Dismantle Item,Dismantle Item
-MMI_1056,Buy that Guild House,Buy that Guild House
-MMI_1057,Enter in Guild House,Enter in Guild House
+MMI_1056,Purchase Guild Ship,Purchase Guild Ship
+MMI_1057,Enter Guild Ship,Enter Guild Ship
 MMI_1058,Enter Your House,Enter Your House
 MMI_1059,Select House Template,Select House Template
 MMI_1060,Visit Friend's House,Visit Friend's House
