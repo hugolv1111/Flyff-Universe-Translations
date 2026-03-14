@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 PROPCTRL_TXT_000000,Small Treasure Chest,Petit Trésor
 PROPCTRL_TXT_000002,Small Treasure Chest(Vertical),Petit Trésor (Vertical)
 PROPCTRL_TXT_000004,FlDungeon Lever,Levier du donjon
@@ -565,11 +565,11 @@ PROPCTRL_TXT_000585,Regular Tree,Arbre Classique
 PROPCTRL_TXT_000586,Unique Tree,Arbre Unique
 PROPCTRL_TXT_000587,Rare Tree,Arbre Rare
 PROPCTRL_TXT_000588,Legendary Tree,Arbre Légendaire
-PROPCTRL_TXT_000589,Ordinary Ore,Minerai Ordinaire
-PROPCTRL_TXT_000590,Regular Ore,Minerai Classique
-PROPCTRL_TXT_000591,Unique Ore,Minerai Unique
-PROPCTRL_TXT_000592,Rare Ore,Minerai Rare
-PROPCTRL_TXT_000593,Legendary Ore,Minerai Légendaire
+PROPCTRL_TXT_000589,Ordinary Rock,Minerai Ordinaire
+PROPCTRL_TXT_000590,Regular Rock,Minerai Classique
+PROPCTRL_TXT_000591,Unique Rock,Minerai Unique
+PROPCTRL_TXT_000592,Rare Rock,Minerai Rare
+PROPCTRL_TXT_000593,Legendary Rock,Minerai Légendaire
 PROPCTRL_TXT_000594,Alchemy Desk,Bureau d’Alchimie
 PROPCTRL_TXT_000595,Hearth,Foyer
 PROPCTRL_TXT_000596,Carpentry Workspace,Atelier de Menuiserie

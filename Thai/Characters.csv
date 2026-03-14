@@ -293,7 +293,7 @@ CHARACTER_INC_002004,Talus,Talus
 CHARACTER_INC_002005,Inventor Remi,นักประดิษฐ์ Remi
 CHARACTER_INC_002006,Sunny Pang,Sunny Pang
 CHARACTER_INC_000771,Charlie,Charlie
-CHARACTER_INC_000772,[Guild House Manager] Lousiana,[ผู้จัดการบ้านกิลด์] Lousiana
+CHARACTER_INC_000772,[Guild Ship Manager] Lousiana,[ผู้จัดการบ้านกิลด์] Lousiana
 CHARACTER_INC_000773,Santa,Santa
 CHARACTER_INC_100044,Diosa,Diosa
 CHARACTER_INC_100200,Kalgas Assault Manager,Kalgas Assault Manager
@@ -313,37 +313,37 @@ CHARACTER_INC_003212,[Personal House NPC] Lala,[NPC ประจำบ้าน]
 CHARACTER_INC_003213,[Personal House NPC] Tino,[NPC ประจำบ้าน] Tino
 CHARACTER_INC_003214,[Personal House NPC] Cachu,[NPC ประจำบ้าน] Cachu
 CHARACTER_INC_003215,[Personal House NPC] Pang,[NPC ประจำบ้าน] Pang
-CHARACTER_INC_003216,[Guild House NPC] Gira,[NPC ประจำบ้าน] Gira
-CHARACTER_INC_003217,[Guild House NPC] Affe,[NPC ประจำบ้าน] Affe
-CHARACTER_INC_003218,[Guild House NPC] Sham,[NPC ประจำบ้าน] Sham
-CHARACTER_INC_003219,[Guild House NPC] Lamew,[NPC ประจำบ้าน] Lamew
-CHARACTER_INC_003220,[Guild House NPC] Quarter,[NPC ประจำบ้าน] Quarter
-CHARACTER_INC_003221,[Guild House NPC] Duron,[NPC ประจำบ้าน] Duron
-CHARACTER_INC_003222,[Guild House NPC] Dolphie,[NPC ประจำบ้าน] Dolphie
-CHARACTER_INC_003223,[Guild House NPC] Fuba,[NPC ประจำบ้าน] Fuba
-CHARACTER_INC_003224,[Guild House NPC] Bako,[NPC ประจำบ้าน] Bako
-CHARACTER_INC_003225,[Guild House NPC] Wick,[NPC ประจำบ้าน] Wick
-CHARACTER_INC_003226,[Guild House NPC] Wina,[NPC ประจำบ้าน] Wina
-CHARACTER_INC_003227,[Guild House NPC] Pitch,[NPC ประจำบ้าน] Pitch
-CHARACTER_INC_003228,[Guild House NPC] Catch,[NPC ประจำบ้าน] Catch
-CHARACTER_INC_003229,[Guild House NPC] Met,[NPC ประจำบ้าน] Met
-CHARACTER_INC_003230,[Guild House NPC] Ego,[NPC ประจำบ้าน] Ego
-CHARACTER_INC_003231,[Guild House NPC] Wifielder,[NPC ประจำบ้าน] Wifielder
-CHARACTER_INC_003232,[Guild House NPC] Simid,[NPC ประจำบ้าน] Simid
-CHARACTER_INC_003233,[Guild House NPC] Chord,[NPC ประจำบ้าน] Chord
-CHARACTER_INC_003234,[Guild House NPC] Anura,[NPC ประจำบ้าน] Anura
-CHARACTER_INC_003235,[Guild House NPC] Vikel,[NPC ประจำบ้าน] Vikel
-CHARACTER_INC_003236,[Guild House NPC] Soz,[NPC ประจำบ้าน] Soz
-CHARACTER_INC_003237,[Guild House NPC] Naso,[NPC ประจำบ้าน] Naso
-CHARACTER_INC_003238,[Guild House NPC] Nuso,[NPC ประจำบ้าน] Nuso
-CHARACTER_INC_003239,[Guild House NPC] Cobao,[NPC ประจำบ้าน] Cobao
-CHARACTER_INC_003240,[Guild House NPC] Aibao,[NPC ประจำบ้าน] Aibao
-CHARACTER_INC_003241,[Guild House NPC] Nanco,[NPC ประจำบ้าน] Nanco
-CHARACTER_INC_003242,[Guild House NPC] Asa,[NPC ประจำบ้าน] Asa
-CHARACTER_INC_003243,[Guild House NPC] Alyn,[NPC ประจำบ้าน] Alyn
-CHARACTER_INC_003244,[Guild House NPC] Lane,[NPC ประจำบ้าน] Lane
-CHARACTER_INC_003245,[Guild House NPC] Runni,[NPC ประจำบ้าน] Runni
-CHARACTER_INC_003246,[Guild House NPC] Pang,[NPC ประจำบ้าน] Pang
+CHARACTER_INC_003216,[Guild Ship NPC] Gira,[NPC ประจำบ้าน] Gira
+CHARACTER_INC_003217,[Guild Ship NPC] Affe,[NPC ประจำบ้าน] Affe
+CHARACTER_INC_003218,[Guild Ship NPC] Sham,[NPC ประจำบ้าน] Sham
+CHARACTER_INC_003219,[Guild Ship NPC] Lamew,[NPC ประจำบ้าน] Lamew
+CHARACTER_INC_003220,[Guild Ship NPC] Quarter,[NPC ประจำบ้าน] Quarter
+CHARACTER_INC_003221,[Guild Ship NPC] Duron,[NPC ประจำบ้าน] Duron
+CHARACTER_INC_003222,[Guild Ship NPC] Dolphie,[NPC ประจำบ้าน] Dolphie
+CHARACTER_INC_003223,[Guild Ship NPC] Fuba,[NPC ประจำบ้าน] Fuba
+CHARACTER_INC_003224,[Guild Ship NPC] Bako,[NPC ประจำบ้าน] Bako
+CHARACTER_INC_003225,[Guild Ship NPC] Wick,[NPC ประจำบ้าน] Wick
+CHARACTER_INC_003226,[Guild Ship NPC] Wina,[NPC ประจำบ้าน] Wina
+CHARACTER_INC_003227,[Guild Ship NPC] Pitch,[NPC ประจำบ้าน] Pitch
+CHARACTER_INC_003228,[Guild Ship NPC] Catch,[NPC ประจำบ้าน] Catch
+CHARACTER_INC_003229,[Guild Ship NPC] Met,[NPC ประจำบ้าน] Met
+CHARACTER_INC_003230,[Guild Ship NPC] Ego,[NPC ประจำบ้าน] Ego
+CHARACTER_INC_003231,[Guild Ship NPC] Wifielder,[NPC ประจำบ้าน] Wifielder
+CHARACTER_INC_003232,[Guild Ship NPC] Simid,[NPC ประจำบ้าน] Simid
+CHARACTER_INC_003233,[Guild Ship NPC] Chord,[NPC ประจำบ้าน] Chord
+CHARACTER_INC_003234,[Guild Ship NPC] Anura,[NPC ประจำบ้าน] Anura
+CHARACTER_INC_003235,[Guild Ship NPC] Vikel,[NPC ประจำบ้าน] Vikel
+CHARACTER_INC_003236,[Guild Ship NPC] Soz,[NPC ประจำบ้าน] Soz
+CHARACTER_INC_003237,[Guild Ship NPC] Naso,[NPC ประจำบ้าน] Naso
+CHARACTER_INC_003238,[Guild Ship NPC] Nuso,[NPC ประจำบ้าน] Nuso
+CHARACTER_INC_003239,[Guild Ship NPC] Cobao,[NPC ประจำบ้าน] Cobao
+CHARACTER_INC_003240,[Guild Ship NPC] Aibao,[NPC ประจำบ้าน] Aibao
+CHARACTER_INC_003241,[Guild Ship NPC] Nanco,[NPC ประจำบ้าน] Nanco
+CHARACTER_INC_003242,[Guild Ship NPC] Asa,[NPC ประจำบ้าน] Asa
+CHARACTER_INC_003243,[Guild Ship NPC] Alyn,[NPC ประจำบ้าน] Alyn
+CHARACTER_INC_003244,[Guild Ship NPC] Lane,[NPC ประจำบ้าน] Lane
+CHARACTER_INC_003245,[Guild Ship NPC] Runni,[NPC ประจำบ้าน] Runni
+CHARACTER_INC_003246,[Guild Ship NPC] Pang,[NPC ประจำบ้าน] Pang
 CHARACTER_INC_000774,Orphanage Keeper,ผู้ดูแลบ้านเด็กกำพร้า
 CHARACTER_INC_003247,Guest Book,Guest Book
 CHARACTER_INC_003248,Bomida,Bomida

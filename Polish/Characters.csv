@@ -293,7 +293,7 @@ CHARACTER_INC_002004,Talus,Talus
 CHARACTER_INC_002005,Inventor Remi,Inventor Remi
 CHARACTER_INC_002006,Sunny Pang,Pang Słoneczny
 CHARACTER_INC_000771,Charlie,Charlie
-CHARACTER_INC_000772,[Guild House Manager] Lousiana,[Kierownik Domu Gildii] Lousiana
+CHARACTER_INC_000772,[Guild Ship Manager] Lousiana,[Kierownik Domu Gildii] Lousiana
 CHARACTER_INC_000773,Santa,Św. Mikołaj
 CHARACTER_INC_100044,Diosa,Diosa
 CHARACTER_INC_100200,Kalgas Assault Manager,Kierownik Szturmu Kalgas
@@ -313,37 +313,37 @@ CHARACTER_INC_003212,[Personal House NPC] Lala,[NPC Domu Osobistego] Lala
 CHARACTER_INC_003213,[Personal House NPC] Tino,[NPC Domu Osobistego] Tino
 CHARACTER_INC_003214,[Personal House NPC] Cachu,[NPC Domu Osobistego] Cachu
 CHARACTER_INC_003215,[Personal House NPC] Pang,[NPC Domu Osobistego] Pang
-CHARACTER_INC_003216,[Guild House NPC] Gira,[NPC Domu Gildii] Gira
-CHARACTER_INC_003217,[Guild House NPC] Affe,[NPC Domu Gildii] Affe
-CHARACTER_INC_003218,[Guild House NPC] Sham,[NPC Domu Gildii] Sham
-CHARACTER_INC_003219,[Guild House NPC] Lamew,[NPC Domu Gildii] Lamew
-CHARACTER_INC_003220,[Guild House NPC] Quarter,[NPC Domu Gildii] Quarter
-CHARACTER_INC_003221,[Guild House NPC] Duron,[NPC Domu Gildii] Duron
-CHARACTER_INC_003222,[Guild House NPC] Dolphie,[NPC Domu Gildii] Dolphie
-CHARACTER_INC_003223,[Guild House NPC] Fuba,[NPC Domu Gildii] Fuba
-CHARACTER_INC_003224,[Guild House NPC] Bako,[NPC Domu Gildii] Bako
-CHARACTER_INC_003225,[Guild House NPC] Wick,[NPC Domu Gildii] Wick
-CHARACTER_INC_003226,[Guild House NPC] Wina,[NPC Domu Gildii] Wina
-CHARACTER_INC_003227,[Guild House NPC] Pitch,[NPC Domu Gildii] Pitch
-CHARACTER_INC_003228,[Guild House NPC] Catch,[NPC Domu Gildii] Catch
-CHARACTER_INC_003229,[Guild House NPC] Met,[NPC Domu Gildii] Met
-CHARACTER_INC_003230,[Guild House NPC] Ego,[NPC Domu Gildii] Ego
-CHARACTER_INC_003231,[Guild House NPC] Wifielder,[NPC Domu Gildii] Wifielder
-CHARACTER_INC_003232,[Guild House NPC] Simid,[NPC Domu Gildii] Simid
-CHARACTER_INC_003233,[Guild House NPC] Chord,[NPC Domu Gildii] Chord
-CHARACTER_INC_003234,[Guild House NPC] Anura,[NPC Domu Gildii] Anura
-CHARACTER_INC_003235,[Guild House NPC] Vikel,[NPC Domu Gildii] Vikel
-CHARACTER_INC_003236,[Guild House NPC] Soz,[NPC Domu Gildii] Soz
-CHARACTER_INC_003237,[Guild House NPC] Naso,[NPC Domu Gildii] Naso
-CHARACTER_INC_003238,[Guild House NPC] Nuso,[NPC Domu Gildii] Nuso
-CHARACTER_INC_003239,[Guild House NPC] Cobao,[NPC Domu Gildii] Cobao
-CHARACTER_INC_003240,[Guild House NPC] Aibao,[NPC Domu Gildii] Aibao
-CHARACTER_INC_003241,[Guild House NPC] Nanco,[NPC Domu Gildii] Nanco
-CHARACTER_INC_003242,[Guild House NPC] Asa,[NPC Domu Gildii] Asa
-CHARACTER_INC_003243,[Guild House NPC] Alyn,[NPC Domu Gildii] Alyn
-CHARACTER_INC_003244,[Guild House NPC] Lane,[NPC Domu Gildii] Lane
-CHARACTER_INC_003245,[Guild House NPC] Runni,[NPC Domu Gildii] Runni
-CHARACTER_INC_003246,[Guild House NPC] Pang,[NPC Domu Gildii] Pang
+CHARACTER_INC_003216,[Guild Ship NPC] Gira,[NPC Domu Gildii] Gira
+CHARACTER_INC_003217,[Guild Ship NPC] Affe,[NPC Domu Gildii] Affe
+CHARACTER_INC_003218,[Guild Ship NPC] Sham,[NPC Domu Gildii] Sham
+CHARACTER_INC_003219,[Guild Ship NPC] Lamew,[NPC Domu Gildii] Lamew
+CHARACTER_INC_003220,[Guild Ship NPC] Quarter,[NPC Domu Gildii] Quarter
+CHARACTER_INC_003221,[Guild Ship NPC] Duron,[NPC Domu Gildii] Duron
+CHARACTER_INC_003222,[Guild Ship NPC] Dolphie,[NPC Domu Gildii] Dolphie
+CHARACTER_INC_003223,[Guild Ship NPC] Fuba,[NPC Domu Gildii] Fuba
+CHARACTER_INC_003224,[Guild Ship NPC] Bako,[NPC Domu Gildii] Bako
+CHARACTER_INC_003225,[Guild Ship NPC] Wick,[NPC Domu Gildii] Wick
+CHARACTER_INC_003226,[Guild Ship NPC] Wina,[NPC Domu Gildii] Wina
+CHARACTER_INC_003227,[Guild Ship NPC] Pitch,[NPC Domu Gildii] Pitch
+CHARACTER_INC_003228,[Guild Ship NPC] Catch,[NPC Domu Gildii] Catch
+CHARACTER_INC_003229,[Guild Ship NPC] Met,[NPC Domu Gildii] Met
+CHARACTER_INC_003230,[Guild Ship NPC] Ego,[NPC Domu Gildii] Ego
+CHARACTER_INC_003231,[Guild Ship NPC] Wifielder,[NPC Domu Gildii] Wifielder
+CHARACTER_INC_003232,[Guild Ship NPC] Simid,[NPC Domu Gildii] Simid
+CHARACTER_INC_003233,[Guild Ship NPC] Chord,[NPC Domu Gildii] Chord
+CHARACTER_INC_003234,[Guild Ship NPC] Anura,[NPC Domu Gildii] Anura
+CHARACTER_INC_003235,[Guild Ship NPC] Vikel,[NPC Domu Gildii] Vikel
+CHARACTER_INC_003236,[Guild Ship NPC] Soz,[NPC Domu Gildii] Soz
+CHARACTER_INC_003237,[Guild Ship NPC] Naso,[NPC Domu Gildii] Naso
+CHARACTER_INC_003238,[Guild Ship NPC] Nuso,[NPC Domu Gildii] Nuso
+CHARACTER_INC_003239,[Guild Ship NPC] Cobao,[NPC Domu Gildii] Cobao
+CHARACTER_INC_003240,[Guild Ship NPC] Aibao,[NPC Domu Gildii] Aibao
+CHARACTER_INC_003241,[Guild Ship NPC] Nanco,[NPC Domu Gildii] Nanco
+CHARACTER_INC_003242,[Guild Ship NPC] Asa,[NPC Domu Gildii] Asa
+CHARACTER_INC_003243,[Guild Ship NPC] Alyn,[NPC Domu Gildii] Alyn
+CHARACTER_INC_003244,[Guild Ship NPC] Lane,[NPC Domu Gildii] Lane
+CHARACTER_INC_003245,[Guild Ship NPC] Runni,[NPC Domu Gildii] Runni
+CHARACTER_INC_003246,[Guild Ship NPC] Pang,[NPC Domu Gildii] Pang
 CHARACTER_INC_000774,Orphanage Keeper,Opiekun Sierocińca
 CHARACTER_INC_003247,Guest Book,Księga Gości
 CHARACTER_INC_003248,Bomida,Bomida

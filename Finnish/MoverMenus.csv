@@ -14,12 +14,12 @@ MMI_11,Request party duel,Pyydä ryhmäkaksintaistelu
 MMI_12,Follow,Seuraa
 MMI_13,Beauty Shop,Kauneusliike
 MMI_14,Repair,Korjaa
-MMI_15,Guild Warehouse,Kiltavarasto
-MMI_16,Guild ranking,Kilta ranking
-MMI_17,Guild war ranking,Kilta sotaranking
-MMI_18,Overall guild war ranking,Overall guild war ranking
-MMI_21,Put Bounty,Put Bounty
-MMI_22,See the Bounty List,See the Bounty List
+MMI_15,Guild Bank,Kiltavarasto
+MMI_16,Guild Rankings,Kilta ranking
+MMI_17,Guild Duel Rankings,Kilta sotaranking
+MMI_18,Guild Statistics Rankings,Guild Statistics Rankings
+MMI_21,Register Bounty,Register Bounty
+MMI_22,Bounty List,Bounty List
 MMI_24,View equipment,View equipment
 MMI_25,Mailbox,Mailbox
 MMI_26,Apply,Apply
@@ -115,8 +115,8 @@ MMI_1050,W-Token Shop,W-Token Shop
 MMI_1051,Costume Box Upgrade,Costume Box Upgrade
 MMI_1054,Exchange Rings,Exchange Rings
 MMI_1055,Dismantle Item,Dismantle Item
-MMI_1056,Buy that Guild House,Buy that Guild House
-MMI_1057,Enter in Guild House,Enter in Guild House
+MMI_1056,Purchase Guild Ship,Purchase Guild Ship
+MMI_1057,Enter Guild Ship,Enter Guild Ship
 MMI_1058,Enter Your House,Enter Your House
 MMI_1059,Select House Template,Select House Template
 MMI_1060,Visit Friend's House,Visit Friend's House

@@ -293,7 +293,7 @@ CHARACTER_INC_002004,Talus,Talus
 CHARACTER_INC_002005,Inventor Remi,Inventor Remi
 CHARACTER_INC_002006,Sunny Pang,Sunny Pang
 CHARACTER_INC_000771,Charlie,Charlie
-CHARACTER_INC_000772,[Guild House Manager] Lousiana,[Adminsitrador Casa da Guilda] Lousiana
+CHARACTER_INC_000772,[Guild Ship Manager] Lousiana,[Adminsitrador Casa da Guilda] Lousiana
 CHARACTER_INC_000773,Santa,TBA
 CHARACTER_INC_100044,Diosa,Diosa
 CHARACTER_INC_100200,Kalgas Assault Manager,Kalgas Assault Manager
@@ -313,37 +313,37 @@ CHARACTER_INC_003212,[Personal House NPC] Lala,[NPC Casa Pessoal] Lala
 CHARACTER_INC_003213,[Personal House NPC] Tino,[NPC Casa Pessoal] Tino
 CHARACTER_INC_003214,[Personal House NPC] Cachu,[NPC Casa Pessoal] Cachu
 CHARACTER_INC_003215,[Personal House NPC] Pang,[NPC Casa Pessoal] Pang
-CHARACTER_INC_003216,[Guild House NPC] Gira,[NPC Casa da Guilda] Gira
-CHARACTER_INC_003217,[Guild House NPC] Affe,[NPC Casa da Guilda] Affe
-CHARACTER_INC_003218,[Guild House NPC] Sham,[NPC Casa da Guilda] Sham
-CHARACTER_INC_003219,[Guild House NPC] Lamew,[NPC Casa da Guilda] Lamew
-CHARACTER_INC_003220,[Guild House NPC] Quarter,[NPC Casa da Guilda] Quarter
-CHARACTER_INC_003221,[Guild House NPC] Duron,[NPC Casa da Guilda] Duron
-CHARACTER_INC_003222,[Guild House NPC] Dolphie,[NPC Casa da Guilda] Dolphie
-CHARACTER_INC_003223,[Guild House NPC] Fuba,[NPC Casa da Guilda] Fuba
-CHARACTER_INC_003224,[Guild House NPC] Bako,[NPC Casa da Guilda] Bako
-CHARACTER_INC_003225,[Guild House NPC] Wick,[NPC Casa da Guilda] Wick
-CHARACTER_INC_003226,[Guild House NPC] Wina,[NPC Casa da Guilda] Wina
-CHARACTER_INC_003227,[Guild House NPC] Pitch,[NPC Casa da Guilda] Pitch
-CHARACTER_INC_003228,[Guild House NPC] Catch,[NPC Casa da Guilda] Catch
-CHARACTER_INC_003229,[Guild House NPC] Met,[NPC Casa da Guilda] Met
-CHARACTER_INC_003230,[Guild House NPC] Ego,[NPC Casa da Guilda] Ego
-CHARACTER_INC_003231,[Guild House NPC] Wifielder,[NPC Casa da Guilda] Wifielder
-CHARACTER_INC_003232,[Guild House NPC] Simid,[NPC Casa da Guilda] Simid
-CHARACTER_INC_003233,[Guild House NPC] Chord,[NPC Casa da Guilda] Chord
-CHARACTER_INC_003234,[Guild House NPC] Anura,[NPC Casa da Guilda] Anura
-CHARACTER_INC_003235,[Guild House NPC] Vikel,[NPC Casa da Guilda] Vikel
-CHARACTER_INC_003236,[Guild House NPC] Soz,[NPC Casa da Guilda] Soz
-CHARACTER_INC_003237,[Guild House NPC] Naso,[NPC Casa da Guilda] Naso
-CHARACTER_INC_003238,[Guild House NPC] Nuso,[NPC Casa da Guilda] Nuso
-CHARACTER_INC_003239,[Guild House NPC] Cobao,[NPC Casa da Guilda] Cobao
-CHARACTER_INC_003240,[Guild House NPC] Aibao,[NPC Casa da Guilda] Aibao
-CHARACTER_INC_003241,[Guild House NPC] Nanco,[NPC Casa da Guilda] Nanco
-CHARACTER_INC_003242,[Guild House NPC] Asa,[NPC Casa da Guilda] Asa
-CHARACTER_INC_003243,[Guild House NPC] Alyn,[NPC Casa da Guilda] Alyn
-CHARACTER_INC_003244,[Guild House NPC] Lane,[NPC Casa da Guilda] Lane
-CHARACTER_INC_003245,[Guild House NPC] Runni,[NPC Casa da Guilda] Runni
-CHARACTER_INC_003246,[Guild House NPC] Pang,[NPC Casa da Guilda] Pang
+CHARACTER_INC_003216,[Guild Ship NPC] Gira,[NPC Casa da Guilda] Gira
+CHARACTER_INC_003217,[Guild Ship NPC] Affe,[NPC Casa da Guilda] Affe
+CHARACTER_INC_003218,[Guild Ship NPC] Sham,[NPC Casa da Guilda] Sham
+CHARACTER_INC_003219,[Guild Ship NPC] Lamew,[NPC Casa da Guilda] Lamew
+CHARACTER_INC_003220,[Guild Ship NPC] Quarter,[NPC Casa da Guilda] Quarter
+CHARACTER_INC_003221,[Guild Ship NPC] Duron,[NPC Casa da Guilda] Duron
+CHARACTER_INC_003222,[Guild Ship NPC] Dolphie,[NPC Casa da Guilda] Dolphie
+CHARACTER_INC_003223,[Guild Ship NPC] Fuba,[NPC Casa da Guilda] Fuba
+CHARACTER_INC_003224,[Guild Ship NPC] Bako,[NPC Casa da Guilda] Bako
+CHARACTER_INC_003225,[Guild Ship NPC] Wick,[NPC Casa da Guilda] Wick
+CHARACTER_INC_003226,[Guild Ship NPC] Wina,[NPC Casa da Guilda] Wina
+CHARACTER_INC_003227,[Guild Ship NPC] Pitch,[NPC Casa da Guilda] Pitch
+CHARACTER_INC_003228,[Guild Ship NPC] Catch,[NPC Casa da Guilda] Catch
+CHARACTER_INC_003229,[Guild Ship NPC] Met,[NPC Casa da Guilda] Met
+CHARACTER_INC_003230,[Guild Ship NPC] Ego,[NPC Casa da Guilda] Ego
+CHARACTER_INC_003231,[Guild Ship NPC] Wifielder,[NPC Casa da Guilda] Wifielder
+CHARACTER_INC_003232,[Guild Ship NPC] Simid,[NPC Casa da Guilda] Simid
+CHARACTER_INC_003233,[Guild Ship NPC] Chord,[NPC Casa da Guilda] Chord
+CHARACTER_INC_003234,[Guild Ship NPC] Anura,[NPC Casa da Guilda] Anura
+CHARACTER_INC_003235,[Guild Ship NPC] Vikel,[NPC Casa da Guilda] Vikel
+CHARACTER_INC_003236,[Guild Ship NPC] Soz,[NPC Casa da Guilda] Soz
+CHARACTER_INC_003237,[Guild Ship NPC] Naso,[NPC Casa da Guilda] Naso
+CHARACTER_INC_003238,[Guild Ship NPC] Nuso,[NPC Casa da Guilda] Nuso
+CHARACTER_INC_003239,[Guild Ship NPC] Cobao,[NPC Casa da Guilda] Cobao
+CHARACTER_INC_003240,[Guild Ship NPC] Aibao,[NPC Casa da Guilda] Aibao
+CHARACTER_INC_003241,[Guild Ship NPC] Nanco,[NPC Casa da Guilda] Nanco
+CHARACTER_INC_003242,[Guild Ship NPC] Asa,[NPC Casa da Guilda] Asa
+CHARACTER_INC_003243,[Guild Ship NPC] Alyn,[NPC Casa da Guilda] Alyn
+CHARACTER_INC_003244,[Guild Ship NPC] Lane,[NPC Casa da Guilda] Lane
+CHARACTER_INC_003245,[Guild Ship NPC] Runni,[NPC Casa da Guilda] Runni
+CHARACTER_INC_003246,[Guild Ship NPC] Pang,[NPC Casa da Guilda] Pang
 CHARACTER_INC_000774,Orphanage Keeper,Guardião do Orfanato
 CHARACTER_INC_003247,Guest Book,Livro de Visitas
 CHARACTER_INC_003248,Bomida,Bomida

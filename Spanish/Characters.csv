@@ -293,7 +293,7 @@ CHARACTER_INC_002004,Talus,Talus
 CHARACTER_INC_002005,Inventor Remi,Remi Inventor
 CHARACTER_INC_002006,Sunny Pang,Pang Soleado
 CHARACTER_INC_000771,Charlie,Charlie
-CHARACTER_INC_000772,[Guild House Manager] Lousiana,[Gerente Casa Gremio] Lousiana
+CHARACTER_INC_000772,[Guild Ship Manager] Lousiana,[Gerente Casa Gremio] Lousiana
 CHARACTER_INC_000773,Santa,Santa
 CHARACTER_INC_100044,Diosa,Diosa
 CHARACTER_INC_100200,Kalgas Assault Manager,Kalgas Assault Manager
@@ -313,37 +313,37 @@ CHARACTER_INC_003212,[Personal House NPC] Lala,[NPC Casa Personal] Lala
 CHARACTER_INC_003213,[Personal House NPC] Tino,[NPC Casa Personal] Tino
 CHARACTER_INC_003214,[Personal House NPC] Cachu,[NPC Casa Personal] Cachu
 CHARACTER_INC_003215,[Personal House NPC] Pang,[NPC Casa Personal] Pang
-CHARACTER_INC_003216,[Guild House NPC] Gira,[NPC Casa de Gremio] Gira
-CHARACTER_INC_003217,[Guild House NPC] Affe,[NPC Casa de Gremio] Affe
-CHARACTER_INC_003218,[Guild House NPC] Sham,[NPC Casa de Gremio] Sham
-CHARACTER_INC_003219,[Guild House NPC] Lamew,[NPC Casa de Gremio] Lamew
-CHARACTER_INC_003220,[Guild House NPC] Quarter,[NPC Casa de Gremio] Quarter
-CHARACTER_INC_003221,[Guild House NPC] Duron,[NPC Casa de Gremio] Duron
-CHARACTER_INC_003222,[Guild House NPC] Dolphie,[NPC Casa de Gremio] Dolphie
-CHARACTER_INC_003223,[Guild House NPC] Fuba,[NPC Casa de Gremio] Fuba
-CHARACTER_INC_003224,[Guild House NPC] Bako,[NPC Casa de Gremio] Bako
-CHARACTER_INC_003225,[Guild House NPC] Wick,[NPC Casa de Gremio] Wick
-CHARACTER_INC_003226,[Guild House NPC] Wina,[NPC Casa de Gremio] Wina
-CHARACTER_INC_003227,[Guild House NPC] Pitch,[NPC Casa de Gremio] Pitch
-CHARACTER_INC_003228,[Guild House NPC] Catch,[NPC Casa de Gremio] Catch
-CHARACTER_INC_003229,[Guild House NPC] Met,[NPC Casa de Gremio] Met
-CHARACTER_INC_003230,[Guild House NPC] Ego,[NPC Casa de Gremio] Ego
-CHARACTER_INC_003231,[Guild House NPC] Wifielder,[NPC Casa de Gremio] Wifielder
-CHARACTER_INC_003232,[Guild House NPC] Simid,[NPC Casa de Gremio] Simid
-CHARACTER_INC_003233,[Guild House NPC] Chord,[NPC Casa de Gremio] Chord
-CHARACTER_INC_003234,[Guild House NPC] Anura,[NPC Casa de Gremio] Anura
-CHARACTER_INC_003235,[Guild House NPC] Vikel,[NPC Casa de Gremio] Vikel
-CHARACTER_INC_003236,[Guild House NPC] Soz,[NPC Casa de Gremio] Soz
-CHARACTER_INC_003237,[Guild House NPC] Naso,[NPC Casa de Gremio] Naso
-CHARACTER_INC_003238,[Guild House NPC] Nuso,[NPC Casa de Gremio] Nuso
-CHARACTER_INC_003239,[Guild House NPC] Cobao,[NPC Casa de Gremio] Cobao
-CHARACTER_INC_003240,[Guild House NPC] Aibao,[NPC Casa de Gremio] Aibao
-CHARACTER_INC_003241,[Guild House NPC] Nanco,[NPC Casa de Gremio] Nanco
-CHARACTER_INC_003242,[Guild House NPC] Asa,[NPC Casa de Gremio] Asa
-CHARACTER_INC_003243,[Guild House NPC] Alyn,[NPC Casa de Gremio] Alyn
-CHARACTER_INC_003244,[Guild House NPC] Lane,[NPC Casa de Gremio] Lane
-CHARACTER_INC_003245,[Guild House NPC] Runni,[NPC Casa de Gremio] Runni
-CHARACTER_INC_003246,[Guild House NPC] Pang,[NPC Casa de Gremio] Pang
+CHARACTER_INC_003216,[Guild Ship NPC] Gira,[NPC Casa de Gremio] Gira
+CHARACTER_INC_003217,[Guild Ship NPC] Affe,[NPC Casa de Gremio] Affe
+CHARACTER_INC_003218,[Guild Ship NPC] Sham,[NPC Casa de Gremio] Sham
+CHARACTER_INC_003219,[Guild Ship NPC] Lamew,[NPC Casa de Gremio] Lamew
+CHARACTER_INC_003220,[Guild Ship NPC] Quarter,[NPC Casa de Gremio] Quarter
+CHARACTER_INC_003221,[Guild Ship NPC] Duron,[NPC Casa de Gremio] Duron
+CHARACTER_INC_003222,[Guild Ship NPC] Dolphie,[NPC Casa de Gremio] Dolphie
+CHARACTER_INC_003223,[Guild Ship NPC] Fuba,[NPC Casa de Gremio] Fuba
+CHARACTER_INC_003224,[Guild Ship NPC] Bako,[NPC Casa de Gremio] Bako
+CHARACTER_INC_003225,[Guild Ship NPC] Wick,[NPC Casa de Gremio] Wick
+CHARACTER_INC_003226,[Guild Ship NPC] Wina,[NPC Casa de Gremio] Wina
+CHARACTER_INC_003227,[Guild Ship NPC] Pitch,[NPC Casa de Gremio] Pitch
+CHARACTER_INC_003228,[Guild Ship NPC] Catch,[NPC Casa de Gremio] Catch
+CHARACTER_INC_003229,[Guild Ship NPC] Met,[NPC Casa de Gremio] Met
+CHARACTER_INC_003230,[Guild Ship NPC] Ego,[NPC Casa de Gremio] Ego
+CHARACTER_INC_003231,[Guild Ship NPC] Wifielder,[NPC Casa de Gremio] Wifielder
+CHARACTER_INC_003232,[Guild Ship NPC] Simid,[NPC Casa de Gremio] Simid
+CHARACTER_INC_003233,[Guild Ship NPC] Chord,[NPC Casa de Gremio] Chord
+CHARACTER_INC_003234,[Guild Ship NPC] Anura,[NPC Casa de Gremio] Anura
+CHARACTER_INC_003235,[Guild Ship NPC] Vikel,[NPC Casa de Gremio] Vikel
+CHARACTER_INC_003236,[Guild Ship NPC] Soz,[NPC Casa de Gremio] Soz
+CHARACTER_INC_003237,[Guild Ship NPC] Naso,[NPC Casa de Gremio] Naso
+CHARACTER_INC_003238,[Guild Ship NPC] Nuso,[NPC Casa de Gremio] Nuso
+CHARACTER_INC_003239,[Guild Ship NPC] Cobao,[NPC Casa de Gremio] Cobao
+CHARACTER_INC_003240,[Guild Ship NPC] Aibao,[NPC Casa de Gremio] Aibao
+CHARACTER_INC_003241,[Guild Ship NPC] Nanco,[NPC Casa de Gremio] Nanco
+CHARACTER_INC_003242,[Guild Ship NPC] Asa,[NPC Casa de Gremio] Asa
+CHARACTER_INC_003243,[Guild Ship NPC] Alyn,[NPC Casa de Gremio] Alyn
+CHARACTER_INC_003244,[Guild Ship NPC] Lane,[NPC Casa de Gremio] Lane
+CHARACTER_INC_003245,[Guild Ship NPC] Runni,[NPC Casa de Gremio] Runni
+CHARACTER_INC_003246,[Guild Ship NPC] Pang,[NPC Casa de Gremio] Pang
 CHARACTER_INC_000774,Orphanage Keeper,Guardián de Orfanato
 CHARACTER_INC_003247,Guest Book,Libro de visitas
 CHARACTER_INC_003248,Bomida,Bomida

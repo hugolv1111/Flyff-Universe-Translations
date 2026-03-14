@@ -14,12 +14,12 @@ MMI_11,Request party duel,Solicitar duelo de party
 MMI_12,Follow,Seguir
 MMI_13,Beauty Shop,Salón de Belleza
 MMI_14,Repair,Reparar
-MMI_15,Guild Warehouse,Almacén de la Guild
-MMI_16,Guild ranking,Clasificación de Guilds
-MMI_17,Guild war ranking,Clasificación de Duelos de Guilds
-MMI_18,Overall guild war ranking,Clasificación General de Duelos de Guilds
-MMI_21,Put Bounty,Añadir Recompensa
-MMI_22,See the Bounty List,Ver la Lista de Recompensas
+MMI_15,Guild Bank,Almacén de la Guild
+MMI_16,Guild Rankings,Clasificación de Guilds
+MMI_17,Guild Duel Rankings,Clasificación de Duelos de Guilds
+MMI_18,Guild Statistics Rankings,Clasificación General de Duelos de Guilds
+MMI_21,Register Bounty,Añadir Recompensa
+MMI_22,Bounty List,Ver la Lista de Recompensas
 MMI_24,View equipment,Ver Equipo
 MMI_25,Mailbox,Buzón de Mensajes
 MMI_26,Apply,Aplicar
@@ -115,8 +115,8 @@ MMI_1050,W-Token Shop,Tienda W-Token
 MMI_1051,Costume Box Upgrade,Caja Mejora Atuendo
 MMI_1054,Exchange Rings,Intercambiar Anillos
 MMI_1055,Dismantle Item,Desmantelar artículo
-MMI_1056,Buy that Guild House,Compra esa Casa Gremio
-MMI_1057,Enter in Guild House,Entrar en Casa Gremio
+MMI_1056,Purchase Guild Ship,Compra esa Casa Gremio
+MMI_1057,Enter Guild Ship,Entrar en Casa Gremio
 MMI_1058,Enter Your House,Entra a tu casa
 MMI_1059,Select House Template,Seleccionar Plantilla Casa
 MMI_1060,Visit Friend's House,Visita Casa de Amigo

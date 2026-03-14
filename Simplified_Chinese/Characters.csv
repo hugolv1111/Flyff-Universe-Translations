@@ -293,7 +293,7 @@ CHARACTER_INC_002004,Talus,塔卢斯
 CHARACTER_INC_002005,Inventor Remi,发明家蕾米
 CHARACTER_INC_002006,Sunny Pang,阳光胖胖
 CHARACTER_INC_000771,Charlie,Charlie
-CHARACTER_INC_000772,[Guild House Manager] Lousiana,[公会房屋管理员] Lousiana
+CHARACTER_INC_000772,[Guild Ship Manager] Lousiana,[公会房屋管理员] Lousiana
 CHARACTER_INC_000773,Santa,圣诞老人
 CHARACTER_INC_100044,Diosa,Diosa
 CHARACTER_INC_100200,Kalgas Assault Manager,卡尔加斯突袭管理员
@@ -313,37 +313,37 @@ CHARACTER_INC_003212,[Personal House NPC] Lala,[Personal House NPC] Lala
 CHARACTER_INC_003213,[Personal House NPC] Tino,[Personal House NPC] Tino
 CHARACTER_INC_003214,[Personal House NPC] Cachu,[Personal House NPC] Cachu
 CHARACTER_INC_003215,[Personal House NPC] Pang,[Personal House NPC] Pang
-CHARACTER_INC_003216,[Guild House NPC] Gira,[Guild House NPC] Gira
-CHARACTER_INC_003217,[Guild House NPC] Affe,[Guild House NPC] Affe
-CHARACTER_INC_003218,[Guild House NPC] Sham,[Guild House NPC] Sham
-CHARACTER_INC_003219,[Guild House NPC] Lamew,[Guild House NPC] Lamew
-CHARACTER_INC_003220,[Guild House NPC] Quarter,[Guild House NPC] Quarter
-CHARACTER_INC_003221,[Guild House NPC] Duron,[Guild House NPC] Duron
-CHARACTER_INC_003222,[Guild House NPC] Dolphie,[Guild House NPC] Dolphie
-CHARACTER_INC_003223,[Guild House NPC] Fuba,[Guild House NPC] Fuba
-CHARACTER_INC_003224,[Guild House NPC] Bako,[Guild House NPC] Bako
-CHARACTER_INC_003225,[Guild House NPC] Wick,[Guild House NPC] Wick
-CHARACTER_INC_003226,[Guild House NPC] Wina,[Guild House NPC] Wina
-CHARACTER_INC_003227,[Guild House NPC] Pitch,[Guild House NPC] Pitch
-CHARACTER_INC_003228,[Guild House NPC] Catch,[Guild House NPC] Catch
-CHARACTER_INC_003229,[Guild House NPC] Met,[Guild House NPC] Met
-CHARACTER_INC_003230,[Guild House NPC] Ego,[Guild House NPC] Ego
-CHARACTER_INC_003231,[Guild House NPC] Wifielder,[Guild House NPC] Wifielder
-CHARACTER_INC_003232,[Guild House NPC] Simid,[Guild House NPC] Simid
-CHARACTER_INC_003233,[Guild House NPC] Chord,[Guild House NPC] Chord
-CHARACTER_INC_003234,[Guild House NPC] Anura,[Guild House NPC] Anura
-CHARACTER_INC_003235,[Guild House NPC] Vikel,[Guild House NPC] Vikel
-CHARACTER_INC_003236,[Guild House NPC] Soz,[Guild House NPC] Soz
-CHARACTER_INC_003237,[Guild House NPC] Naso,[Guild House NPC] Naso
-CHARACTER_INC_003238,[Guild House NPC] Nuso,[Guild House NPC] Nuso
-CHARACTER_INC_003239,[Guild House NPC] Cobao,[Guild House NPC] Cobao
-CHARACTER_INC_003240,[Guild House NPC] Aibao,[Guild House NPC] Aibao
-CHARACTER_INC_003241,[Guild House NPC] Nanco,[Guild House NPC] Nanco
-CHARACTER_INC_003242,[Guild House NPC] Asa,[Guild House NPC] Asa
-CHARACTER_INC_003243,[Guild House NPC] Alyn,[Guild House NPC] Alyn
-CHARACTER_INC_003244,[Guild House NPC] Lane,[Guild House NPC] Lane
-CHARACTER_INC_003245,[Guild House NPC] Runni,[Guild House NPC] Runni
-CHARACTER_INC_003246,[Guild House NPC] Pang,[Guild House NPC] Pang
+CHARACTER_INC_003216,[Guild Ship NPC] Gira,[Guild Ship NPC] Gira
+CHARACTER_INC_003217,[Guild Ship NPC] Affe,[Guild Ship NPC] Affe
+CHARACTER_INC_003218,[Guild Ship NPC] Sham,[Guild Ship NPC] Sham
+CHARACTER_INC_003219,[Guild Ship NPC] Lamew,[Guild Ship NPC] Lamew
+CHARACTER_INC_003220,[Guild Ship NPC] Quarter,[Guild Ship NPC] Quarter
+CHARACTER_INC_003221,[Guild Ship NPC] Duron,[Guild Ship NPC] Duron
+CHARACTER_INC_003222,[Guild Ship NPC] Dolphie,[Guild Ship NPC] Dolphie
+CHARACTER_INC_003223,[Guild Ship NPC] Fuba,[Guild Ship NPC] Fuba
+CHARACTER_INC_003224,[Guild Ship NPC] Bako,[Guild Ship NPC] Bako
+CHARACTER_INC_003225,[Guild Ship NPC] Wick,[Guild Ship NPC] Wick
+CHARACTER_INC_003226,[Guild Ship NPC] Wina,[Guild Ship NPC] Wina
+CHARACTER_INC_003227,[Guild Ship NPC] Pitch,[Guild Ship NPC] Pitch
+CHARACTER_INC_003228,[Guild Ship NPC] Catch,[Guild Ship NPC] Catch
+CHARACTER_INC_003229,[Guild Ship NPC] Met,[Guild Ship NPC] Met
+CHARACTER_INC_003230,[Guild Ship NPC] Ego,[Guild Ship NPC] Ego
+CHARACTER_INC_003231,[Guild Ship NPC] Wifielder,[Guild Ship NPC] Wifielder
+CHARACTER_INC_003232,[Guild Ship NPC] Simid,[Guild Ship NPC] Simid
+CHARACTER_INC_003233,[Guild Ship NPC] Chord,[Guild Ship NPC] Chord
+CHARACTER_INC_003234,[Guild Ship NPC] Anura,[Guild Ship NPC] Anura
+CHARACTER_INC_003235,[Guild Ship NPC] Vikel,[Guild Ship NPC] Vikel
+CHARACTER_INC_003236,[Guild Ship NPC] Soz,[Guild Ship NPC] Soz
+CHARACTER_INC_003237,[Guild Ship NPC] Naso,[Guild Ship NPC] Naso
+CHARACTER_INC_003238,[Guild Ship NPC] Nuso,[Guild Ship NPC] Nuso
+CHARACTER_INC_003239,[Guild Ship NPC] Cobao,[Guild Ship NPC] Cobao
+CHARACTER_INC_003240,[Guild Ship NPC] Aibao,[Guild Ship NPC] Aibao
+CHARACTER_INC_003241,[Guild Ship NPC] Nanco,[Guild Ship NPC] Nanco
+CHARACTER_INC_003242,[Guild Ship NPC] Asa,[Guild Ship NPC] Asa
+CHARACTER_INC_003243,[Guild Ship NPC] Alyn,[Guild Ship NPC] Alyn
+CHARACTER_INC_003244,[Guild Ship NPC] Lane,[Guild Ship NPC] Lane
+CHARACTER_INC_003245,[Guild Ship NPC] Runni,[Guild Ship NPC] Runni
+CHARACTER_INC_003246,[Guild Ship NPC] Pang,[Guild Ship NPC] Pang
 CHARACTER_INC_000774,Orphanage Keeper,Orphanage Keeper
 CHARACTER_INC_003247,Guest Book,访客留言簿
 CHARACTER_INC_003248,Bomida,Bomida

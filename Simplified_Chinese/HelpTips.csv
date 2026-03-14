@@ -1,18 +1,18 @@
 ﻿Key,English,Simplified_Chinese
-CLIENT_TIP_INC_000000,"In order to change the camera view, move the mouse or use the arrow keys with clicking the right mouse button (in new version) or clicking the wheel button (in old version)",需要移动相机视角，按住滚轮移动或者按住鼠标右键移动。
-CLIENT_TIP_INC_000001,"By pressing the space bar, player can jump on the ground. and also, it will move the flight in the flying mode",按下[空格键]来跳跃，在飞行中按下[空格键]为起飞/停止
-CLIENT_TIP_INC_000002,Flying is possible at level 20 regardless of your job class. Flying items can be purchased from the [Station] NPC in each town.,到达20级即可飞行，无职业限制。飞行器可以在各个城市中的航空站NPC处购买。
-CLIENT_TIP_INC_000003,"If you need HP, you can take a rest thru a sitting order which you can choose in the motion interface menu. it will take the time but save the money.",如果你需要恢复血量，可以在动作按钮中找到[坐下]，这省去了买药钱，但需要花费时间。
-CLIENT_TIP_INC_000004,"When you are dead, revive through ‘Lodestar’ if you want to go to town. If you want to revive from the place you've died, then use a ‘Scroll of Resurrection’ or have a Resurrection skill cast on you.",死亡后通过“生命之塔”复活可以复活在最近的城市。如果你想原地复活，可以使用复活卷轴或者圣职者救你。
-CLIENT_TIP_INC_000005,"Items that restore HP, MP, and FP such as Food, Refresher, and Vita drink restore a certain amount. Check the amount they restore for maximum efficiency.",恢复血量，魔法值，活力值的补给物品有一个上限，可以在物品中查看恢复最大值。
-CLIENT_TIP_INC_000006,When you reach level 15 go complete your Job transfer quest as soon as possible. If you don’t you won’t be able to gain any more Exp.,当你达到15级的时候，尽快完成你的转职任务，如果你不做任务，你将不能再获得更多经验值。
-CLIENT_TIP_INC_000007,Press ESC to disable targeting.,按[ESC]可解除目标锁定。
+CLIENT_TIP_INC_000000,"To change the camera view, move the mouse or use the arrow keys while holding the right mouse button or the mouse wheel button.",需要移动相机视角，按住滚轮移动或者按住鼠标右键移动。
+CLIENT_TIP_INC_000001,"Press Spacebar to jump while on the ground. While flying, press Spacebar to start or stop moving.",按下[空格键]来跳跃，在飞行中按下[空格键]为起飞/停止
+CLIENT_TIP_INC_000002,Flying becomes available at level 20 regardless of your class. Flying items can be purchased from the [Station] NPC in each town.,到达20级即可飞行，无职业限制。飞行器可以在各个城市中的航空站NPC处购买。
+CLIENT_TIP_INC_000003,"If you need HP, sit down using the Emotes menu. Resting takes time but saves money.",如果你需要恢复血量，可以在动作按钮中找到[坐下]，这省去了买药钱，但需要花费时间。
+CLIENT_TIP_INC_000004,"If you die, use Lodestar to revive in town. To revive at the place where you died, use a Scroll of Resurrection or have someone cast Resurrection on you.",死亡后通过“生命之塔”复活可以复活在最近的城市。如果你想原地复活，可以使用复活卷轴或者圣职者救你。
+CLIENT_TIP_INC_000005,"Items that restore HP, MP, and FP - such as Food, Refreshers, and Vital Drinks - are most effective up to a certain value. Using them above that value restores less.",恢复血量，魔法值，活力值的补给物品有一个上限，可以在物品中查看恢复最大值。
+CLIENT_TIP_INC_000006,"When you reach level 15, complete your job change quest as soon as possible. Until you do, you cannot gain additional EXP.",当你达到15级的时候，尽快完成你的转职任务，如果你不做任务，你将不能再获得更多经验值。
+CLIENT_TIP_INC_000007,Press ESC to cancel your target.,按[ESC]可解除目标锁定。
 CLIENT_TIP_INC_000008,Troupe means Party.,队伍就是剧团。
-CLIENT_TIP_INC_000009,"To use a skill, open the skill window (Hot Key ‘K’) and drag the skill icon to the bottom of the screen (F1~F10). To use a combined skill, drag a skill icon to the action slot (Right bottom of the screen) and designate a target and click ‘C’ to use the combined skill.",若要使用技能，请打开技能窗口(热键'K')，并将技能图标拖到屏幕底部(F1~F10)。若要使用组合技能，将技能图标拖到连续技能栏里(屏幕右下角)，选定一个目标并按‘C’键使用组合技能。
-CLIENT_TIP_INC_000010,You have to put the Clean Hit skill first to use the flurry skill in the ACTION SLOT.,连续技能栏中可以先放起始技能。
-CLIENT_TIP_INC_000011,"After selecting the character, click the left mouse button while holding down ALT and choose ‘Follow’ in the menu to follow the character. Press Space Bar while holding ‘Z’ when you are flying.",选定目标按住Alt，点击跟随即可跟随目标。
-CLIENT_TIP_INC_000012,"Clicking the target while holding down 'ALT' activates the menu for Guild, Messenger, following, etc..",按住Alt点击目标，可以跟随，私信，邀请玩家等等。
-CLIENT_TIP_INC_000013,Press 'X' to toggle walking and running.,按“X”切换走路/跑步。
-CLIENT_TIP_INC_000014,"Double-clicking on the monster or set on the auto attack in game option, it will attack automatically.",双击怪物即可自动攻击，可以在游戏设置中更改。
-CLIENT_TIP_INC_000015,Selling or buying Penyas online is against our policies! Buying Penyas online put your account at risk and you may be punished.,网络其他途径交易金币是违反游戏规则的，买卖金币会使你的帐号处于风险并且也会受到我们的惩罚。
-CLIENT_TIP_INC_000016,"Sharing, giving or selling an account goes against our policies. Any breach can result in a permanent termination of the related accounts.",共享、赠送或出售账户将会违反我们的政策。任何违反规定的行为都可能导致相关账户的永久封号。
+CLIENT_TIP_INC_000009,"To use a skill, open the Skill window (Hotkey: K) and drag the skill icon to the hotkey bar (F1-F10). To use a combo skill, drag the skill icon to the Action Slot (bottom-right of the screen), select a target, and press C.",若要使用技能，请打开技能窗口(热键'K')，并将技能图标拖到屏幕底部(F1~F10)。若要使用组合技能，将技能图标拖到连续技能栏里(屏幕右下角)，选定一个目标并按‘C’键使用组合技能。
+CLIENT_TIP_INC_000010,Clean Hit must be placed first in the Action Slot to use Flurry.,连续技能栏中可以先放起始技能。
+CLIENT_TIP_INC_000011,"To follow a character, click the target and select Follow from the menu. You can also press Z to follow the selected target.",选定目标按住Alt，点击跟随即可跟随目标。
+CLIENT_TIP_INC_000012,"You must be close to a character to open the interaction menu (Guild, Messenger, Follow, etc.). By default, left-click opens the menu. You can enable right-click instead in Options > Game > Right-Click Player Menu.",按住Alt点击目标，可以跟随，私信，邀请玩家等等。
+CLIENT_TIP_INC_000013,Press X to toggle between walking and running.,按“X”切换走路/跑步。
+CLIENT_TIP_INC_000014,Double-click a monster to attack it. This can be changed to single-click in Options > Game > Single Click to Attack. Basic attacks continue automatically while Auto Attack is enabled (Options > Game > Auto Attack).,双击怪物即可自动攻击，可以在游戏设置中更改。
+CLIENT_TIP_INC_000015,Buying or selling Penya online violates our policies! Doing so puts your account at risk and may result in penalties.,网络其他途径交易金币是违反游戏规则的，买卖金币会使你的帐号处于风险并且也会受到我们的惩罚。
+CLIENT_TIP_INC_000016,Sharing or selling accounts violates our policies. Violations may result in permanent account termination.,共享、赠送或出售账户将会违反我们的政策。任何违反规定的行为都可能导致相关账户的永久封号。

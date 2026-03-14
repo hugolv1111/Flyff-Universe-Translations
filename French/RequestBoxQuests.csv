@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 PROPQUEST_REQUESTBOX_INC_000354,A request for $QUEST_END_ITEM_NAME$s has gone out. Will you accept this quest?,Une requête pour la collecte de $QUEST_END_ITEM_NAME$s a été soumise. Peux tu aller en récupérer ?
 PROPQUEST_REQUESTBOX_INC_000359,A request for Grrr Bandages has gone out.,Récoltez 45 Bandages Grrr afin de pouvoir soigner les patients.
 PROPQUEST_REQUESTBOX_INC_000370,A request for Amperes has gone out,Collecter des Ampères sur les Volts pour les Dwarpets
@@ -212,7 +212,7 @@ PROPQUEST_REQUESTBOX_INC_010032,"Hey look, a flying rat!","Hé, regarde, un rat 
 PROPQUEST_REQUESTBOX_INC_010033,"Almani asked for Longwings to be exterminated, as they have been attacking civilians. Could you kill 15 of them?","Almani a besoin d'aide pour exterminer des Longwings, car ils attaquent des civils. Peux-tu en tuer 15 ?"
 PROPQUEST_REQUESTBOX_INC_010034,You can find Longwings flying South-East of the Clockworks Cage in the mountains.,Tu peux trouver les Longwings volant au sud-est de la Cage de Clockworks dans les montagnes.
 PROPQUEST_REQUESTBOX_INC_010035,Baby Meteonyker,Bébé Meteonyker
-PROPQUEST_REQUESTBOX_INC_010036,"Almani asked for Fafnirs to be exterminated, before they grow into Dragons! Please could you kill 15 of them?","Almani a besoin d'aide pour exterminer des Fafnirs avant qu'ils ne deviennent des dragons ! Peux-tu en tuer 15 ?"
+PROPQUEST_REQUESTBOX_INC_010036,"Almani asked for Fafnirs to be exterminated, before they grow into Dragons! Please could you kill 15 of them?",Almani a besoin d'aide pour exterminer des Fafnirs avant qu'ils ne deviennent des dragons ! Peux-tu en tuer 15 ?
 PROPQUEST_REQUESTBOX_INC_010037,"You can find Fafnirs flying near the Volcano in Darkon 3, Brekin.","Tu peux trouver des Fafnirs volant près du volcan à Brekin, à Darkon 3."
 PROPQUEST_REQUESTBOX_INC_010038,Prehistoric Birds,Oiseaux préhistoriques
 PROPQUEST_REQUESTBOX_INC_010039,Almani asked for Gorrudas to be exterminated. They are an imminent threat! Please could you kill 15 of them?,Almani a besoin d'aide pour exterminer des Gorrudas. C'est une menace imminente ! Peux-tu en tuer 15 ?

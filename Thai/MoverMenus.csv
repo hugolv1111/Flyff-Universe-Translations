@@ -14,12 +14,12 @@ MMI_11,Request party duel,ร้องขอ Party
 MMI_12,Follow,ติดตาม
 MMI_13,Beauty Shop,ร้านเสริมสวย
 MMI_14,Repair,ซ่อมแซม
-MMI_15,Guild Warehouse,คลังเก็บของ Guild
-MMI_16,Guild ranking,อันดับ Guild
-MMI_17,Guild war ranking,อันดับGuild war
-MMI_18,Overall guild war ranking,อันดับ Guild war ทั้งหมด
-MMI_21,Put Bounty,ใส่เงินสนับสนุน
-MMI_22,See the Bounty List,ดูรายชื่อคนให้เงินสนับสนุน
+MMI_15,Guild Bank,คลังเก็บของ Guild
+MMI_16,Guild Rankings,อันดับ Guild
+MMI_17,Guild Duel Rankings,อันดับGuild war
+MMI_18,Guild Statistics Rankings,อันดับ Guild war ทั้งหมด
+MMI_21,Register Bounty,ใส่เงินสนับสนุน
+MMI_22,Bounty List,ดูรายชื่อคนให้เงินสนับสนุน
 MMI_24,View equipment,ดูอุปกรณ์สวมใส่
 MMI_25,Mailbox,ตู้จดหมาย
 MMI_26,Apply,Apply
@@ -115,8 +115,8 @@ MMI_1050,W-Token Shop,ร้าน W-Token
 MMI_1051,Costume Box Upgrade,อัพเกรด Costume Box
 MMI_1054,Exchange Rings,แลกเปลี่ยน Rings
 MMI_1055,Dismantle Item,สลายไอเท็ม
-MMI_1056,Buy that Guild House,ซื้อบ้านกิลด์
-MMI_1057,Enter in Guild House,เข้าสู่บ้านกิลด์
+MMI_1056,Purchase Guild Ship,ซื้อบ้านกิลด์
+MMI_1057,Enter Guild Ship,เข้าสู่บ้านกิลด์
 MMI_1058,Enter Your House,เข้าบ้านของคุณ
 MMI_1059,Select House Template,เลือกรูปแบบบ้าน
 MMI_1060,Visit Friend's House,เยี่ยมชมบ้านเพื่อน
