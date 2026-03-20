@@ -18,13 +18,13 @@ PROPCTRL_TXT_000038,Harvest Plant 02,采集植物 02
 PROPCTRL_TXT_000039,Harvest Plant 03,采集植物 03
 PROPCTRL_TXT_000040,Harvest Plant 04,采集植物 04
 PROPCTRL_TXT_000041,Children in cage,被困住的孩子
-PROPCTRL_TXT_000042,Pet Cage 01,Pet Cage 01
-PROPCTRL_TXT_000043,Pet Cage 02,Pet Cage 02
-PROPCTRL_TXT_000044,Pet Cage 03,Pet Cage 03
-PROPCTRL_TXT_000045,Pet Cage 04,Pet Cage 04
-PROPCTRL_TXT_000046,Pet Cage 05,Pet Cage 05
-PROPCTRL_TXT_000047,Pet Cage 06,Pet Cage 06
-PROPCTRL_TXT_000048,Pet Cage 07,Pet Cage 07
+PROPCTRL_TXT_000042,Pet Cage 01,宠物笼 01
+PROPCTRL_TXT_000043,Pet Cage 02,宠物笼 02
+PROPCTRL_TXT_000044,Pet Cage 03,宠物笼 03
+PROPCTRL_TXT_000045,Pet Cage 04,宠物笼 04
+PROPCTRL_TXT_000046,Pet Cage 05,宠物笼 05
+PROPCTRL_TXT_000047,Pet Cage 06,宠物笼 06
+PROPCTRL_TXT_000048,Pet Cage 07,宠物笼 07
 PROPCTRL_TXT_000049,Dungeon Warp 01,Dungeon Warp 01
 PROPCTRL_TXT_000050,Dungeon Warp 02,Dungeon Warp 02
 PROPCTRL_TXT_000051,Dungeon Warp 03,Dungeon Warp 03
@@ -33,12 +33,12 @@ PROPCTRL_TXT_000053,Straight Palm Tree,Straight Palm Tree
 PROPCTRL_TXT_000054,Leaning Palm Tree,Leaning Palm Tree
 PROPCTRL_TXT_000055,Branch Coral,Branch Coral
 PROPCTRL_TXT_000056,Round Red Coral,Round Red Coral
-PROPCTRL_TXT_000057,Leren Chasm Chest,Leren Chasm Chest
-PROPCTRL_TXT_000058,Rhisis Catacombs Chest,Rhisis Catacombs Chest
-PROPCTRL_TXT_000059,Envy Depths Chest,Envy Depths Chest
-PROPCTRL_TXT_000060,Guardiane Sanctuary Chest,Guardiane Sanctuary Chest
-PROPCTRL_TXT_000061,Storm Peak Chest,Storm Peak Chest
-PROPCTRL_TXT_000062,The Wilds Chest,The Wilds Chest
+PROPCTRL_TXT_000057,Leren Chasm Chest,乐雅裂痕宝箱
+PROPCTRL_TXT_000058,Rhisis Catacombs Chest,莱斯神之墓宝箱
+PROPCTRL_TXT_000059,Envy Depths Chest,渴望深渊宝箱
+PROPCTRL_TXT_000060,Guardiane Sanctuary Chest,堕落圣域宝箱
+PROPCTRL_TXT_000061,Storm Peak Chest,风暴之巅宝箱
+PROPCTRL_TXT_000062,The Wilds Chest,荒野宝箱
 PROPCTRL_TXT_000063,Dungeon Warp 05,Dungeon Warp 05
 PROPCTRL_TXT_000064,Dungeon Warp 06,Dungeon Warp 06
 PROPCTRL_TXT_000065,Ship Wheel,Ship Wheel
@@ -555,26 +555,26 @@ PROPCTRL_TXT_000575,Luxury Sofa,Luxury Sofa
 PROPCTRL_TXT_000576,Luxury Armchair,Luxury Armchair
 PROPCTRL_TXT_000577,Luxury Chair,Luxury Chair
 PROPCTRL_TXT_000578,Luxury Bed,Luxury Bed
-PROPCTRL_TXT_000579,Ordinary Herb,Ordinary Herb
-PROPCTRL_TXT_000580,Regular Herb,Regular Herb
-PROPCTRL_TXT_000581,Unique Herb,Unique Herb
-PROPCTRL_TXT_000582,Rare Herb,Rare Herb
-PROPCTRL_TXT_000583,Legendary Herb,Legendary Herb
-PROPCTRL_TXT_000584,Ordinary Tree,Ordinary Tree
-PROPCTRL_TXT_000585,Regular Tree,Regular Tree
-PROPCTRL_TXT_000586,Unique Tree,Unique Tree
-PROPCTRL_TXT_000587,Rare Tree,Rare Tree
-PROPCTRL_TXT_000588,Legendary Tree,Legendary Tree
-PROPCTRL_TXT_000589,Ordinary Rock,Ordinary Rock
-PROPCTRL_TXT_000590,Regular Rock,Regular Rock
-PROPCTRL_TXT_000591,Unique Rock,Unique Rock
-PROPCTRL_TXT_000592,Rare Rock,Rare Rock
-PROPCTRL_TXT_000593,Legendary Rock,Legendary Rock
+PROPCTRL_TXT_000579,Ordinary Herb,低级草药
+PROPCTRL_TXT_000580,Regular Herb,普通草药
+PROPCTRL_TXT_000581,Unique Herb,稀有草药
+PROPCTRL_TXT_000582,Rare Herb,珍稀草药
+PROPCTRL_TXT_000583,Legendary Herb,传说草药
+PROPCTRL_TXT_000584,Ordinary Tree,低级树木
+PROPCTRL_TXT_000585,Regular Tree,普通树木
+PROPCTRL_TXT_000586,Unique Tree,稀有树木
+PROPCTRL_TXT_000587,Rare Tree,珍惜树木
+PROPCTRL_TXT_000588,Legendary Tree,传说树木
+PROPCTRL_TXT_000589,Ordinary Rock,低级岩石
+PROPCTRL_TXT_000590,Regular Rock,普通岩石
+PROPCTRL_TXT_000591,Unique Rock,稀有岩石
+PROPCTRL_TXT_000592,Rare Rock,珍稀岩石
+PROPCTRL_TXT_000593,Legendary Rock,传说岩石
 PROPCTRL_TXT_000594,Alchemy Desk,炼金桌
 PROPCTRL_TXT_000595,Hearth,火炉
 PROPCTRL_TXT_000596,Carpentry Workspace,木匠台
 PROPCTRL_TXT_000597,Smithing Workspace,锻造台
-PROPCTRL_TXT_000598,Halloween Pumpkin,Halloween Pumpkin
+PROPCTRL_TXT_000598,Halloween Pumpkin,万圣南瓜
 PROPCTRL_TXT_000599,Message Sign,Message Sign
 PROPCTRL_TXT_000600,Medieval Bed,Medieval Bed
 PROPCTRL_TXT_000601,Medieval Sofa,Medieval Sofa
@@ -594,16 +594,16 @@ PROPCTRL_TXT_000614,Halloween 2024 Table,Halloween 2024 Table
 PROPCTRL_TXT_000615,Halloween 2024 Chair,Halloween 2024 Chair
 PROPCTRL_TXT_000616,Halloween 2024 Lantern,Halloween 2024 Lantern
 PROPCTRL_TXT_000617,Halloween 2024 Drawer,Halloween 2024 Drawer
-PROPCTRL_TXT_000618,Flaris House 1,Flaris House 1
-PROPCTRL_TXT_000619,Flaris House 2,Flaris House 2
-PROPCTRL_TXT_000620,Flaris House 3,Flaris House 3
-PROPCTRL_TXT_000621,Flaris House 4,Flaris House 4
-PROPCTRL_TXT_000622,Flaris House 5,Flaris House 5
-PROPCTRL_TXT_000623,Flaris House 6,Flaris House 6
-PROPCTRL_TXT_000624,Flaris House 7,Flaris House 7
-PROPCTRL_TXT_000625,Flaris House 8,Flaris House 8
-PROPCTRL_TXT_000626,Flaris House 9,Flaris House 9
-PROPCTRL_TXT_000627,Flaris House 10,Flaris House 10
+PROPCTRL_TXT_000618,Flaris House 1,帕里小屋 1
+PROPCTRL_TXT_000619,Flaris House 2,帕里小屋 2
+PROPCTRL_TXT_000620,Flaris House 3,帕里小屋 3
+PROPCTRL_TXT_000621,Flaris House 4,帕里小屋 4
+PROPCTRL_TXT_000622,Flaris House 5,帕里小屋 5
+PROPCTRL_TXT_000623,Flaris House 6,帕里小屋 6
+PROPCTRL_TXT_000624,Flaris House 7,帕里小屋 7
+PROPCTRL_TXT_000625,Flaris House 8,帕里小屋 8
+PROPCTRL_TXT_000626,Flaris House 9,帕里小屋 9
+PROPCTRL_TXT_000627,Flaris House 10,帕里小屋 10
 PROPCTRL_TXT_000628,Saint Morning House 1,Saint Morning House 1
 PROPCTRL_TXT_000629,Saint Morning House 2,Saint Morning House 2
 PROPCTRL_TXT_000630,Saint Morning House 3,Saint Morning House 3
