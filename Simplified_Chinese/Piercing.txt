@@ -1,4 +1,4 @@
-﻿#bItem Piercing#nb
+﻿#b物品穿洞#nb
 
-Piercing an item will unlock slots for piercing cards that can greatly enhance the item's capabilities and power.
-#cffff0000Using a G-Protect scroll guarantees that your item cannot be destroyed in the process.#nc
+为装备穿洞可解锁卡片镶嵌槽，能够大幅提升装备属性与战力。
+#cffff0000 使用穿洞防护卷轴可确保装备在穿洞过程中不会损毁。#nc
