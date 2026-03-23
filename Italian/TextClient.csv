@@ -313,7 +313,7 @@ TEXTCLIENT_GUILD_PAYTAKE,Guild salary of %d Penya received.,Stipendio della gild
 TEXTCLIENT_ERROR_UNKNOWN_TARGET,Unknown setting target,Destinazione di impostazione sconosciuta
 TEXTCLIENT_ERROR_UNKNOWN_JOB,Unknown job,Classe sconosciuta
 TEXTCLIENT_RECURRENCE,Your character’s skill points have been reset. Please redistribute your points in the Skill Tree window.,I punti abilità del tuo personaggio sono stati ripristinati. Ridistribuisci i tuoi punti nella finestra delle abilità.
-TEXTCLIENT_CHOICEJOB,You have to choose a job at Lv 15.,Devi scegliere un classe a Lv 15.
+TEXTCLIENT_CHOICEJOB,You have to choose a job at Lv 15.,Devi scegliere una classe a Lv 15.
 TEXTCLIENT_ERROR_NOTEXPERTJOB,Not Expert Job,Classe non Esperta
 TEXTCLIENT_EXPERTJOBS,Expert Job: %s,Classe Esperta: %s
 TEXTCLIENT_EXPERTLEVEL,Expert Level: %d ~ %d,Livello Esperto: %d ~ %d
