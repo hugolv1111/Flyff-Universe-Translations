@@ -1568,7 +1568,7 @@ UI_BATTLEPASS_INFO,%s ends at: #b%s#nb (Server Time)\nWeekly points limit: #b%d 
 UI_BATTLEPASS_PURCHASE,Purchase Extended Pass,購買延長通行證
 UI_BATTLEPASS_CLAIM,Claim Rewards,領取獎勵
 UI_BATTLEPASS_TIP_BASICREWARDS,Basic rewards for everyone!,每個人的基本獎勵！
-UI_BATTLEPASS_TIP_PAIDREWARDS,Additional rewards available with the Extended Battle Pass!,通行證可獲得額外獎勵！
+UI_BATTLEPASS_TIP_PAIDREWARDS,Additional rewards available with the Extended Battle Pass!,擁有延長通行證可獲得額外獎勵！
 UI_BATTLEPASS_COMPLETED,Congratulations for completing the Battle Pass!,恭喜您完成通行證！
 UI_GUILDCOMBAT80_CANCEL_TITLE,Lv80 GS - Cancel Application,Lv80公會戰 - 取消申請
 UI_GUILDCOMBAT80_CANCEL_MSG,Do you want to withdraw from the Level 80 Guild Siege?,您想要退出Lv80公會戰嗎?
