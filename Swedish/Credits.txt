@@ -2,7 +2,7 @@
 
 Baserat på originalspelet #bFlyff Online#nb av Gala Lab Corp.
 
-#bProgrammera#nb
+#bProgrammering#nb
 Loïc Saos
 Marc Bassiere
 Ibrahim Ennara
